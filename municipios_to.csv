@@ -1,0 +1,188 @@
+﻿cod_ibge;nome_municipio;uf;regiao
+150085;Anapu;PA;Norte
+150140;Bannach;PA;Norte
+150270;Cumaru do Norte;PA;Norte
+150304;Floresta do Araguaia;PA;Norte
+150370;Itupiranga;PA;Norte
+150380;Jacundá;PA;Norte
+150506;Novo Repartimento;PA;Norte
+150553;Palestina do Pará;PA;Norte
+150563;Pau D'Arco;PA;Norte
+150613;Redenção;PA;Norte
+150715;São Domingos do Araguaia;PA;Norte
+150730;São Félix do Xingu;PA;Norte
+150745;São Geraldo do Araguaia;PA;Norte
+150808;Tucumã;PA;Norte
+150810;Tucuruí;PA;Norte
+150812;Ulianópolis;PA;Norte
+150840;Xinguara;PA;Norte
+170025;Abreulândia;TO;Norte
+170030;Aguiarnópolis;TO;Norte
+170035;Aliança do Tocantins;TO;Norte
+170040;Almas;TO;Norte
+170070;Alvorada;TO;Norte
+170100;Ananás;TO;Norte
+170105;Angico;TO;Norte
+170110;Aparecida do Rio Negro;TO;Norte
+170130;Aragominas;TO;Norte
+170190;Araguacema;TO;Norte
+170200;Araguaçu;TO;Norte
+170210;Araguaína;TO;Norte
+170215;Araguanã;TO;Norte
+170220;Araguatins;TO;Norte
+170230;Arapoema;TO;Norte
+170240;Arraias;TO;Norte
+170255;Augustinópolis;TO;Norte
+170270;Aurora do Tocantins;TO;Norte
+170290;Axixá do Tocantins;TO;Norte
+170300;Babaçulândia;TO;Norte
+170305;Bandeirantes do Tocantins;TO;Norte
+170307;Barra do Ouro;TO;Norte
+170310;Barrolândia;TO;Norte
+170320;Bernardo Sayão;TO;Norte
+170330;Bom Jesus do Tocantins;TO;Norte
+170360;Brasilândia do Tocantins;TO;Norte
+170370;Brejinho de Nazaré;TO;Norte
+170380;Buriti do Tocantins;TO;Norte
+170382;Cachoeirinha;TO;Norte
+170384;Campos Lindos;TO;Norte
+170386;Cariri do Tocantins;TO;Norte
+170388;Carmolândia;TO;Norte
+170389;Carrasco Bonito;TO;Norte
+170390;Caseara;TO;Norte
+170410;Centenário;TO;Norte
+170460;Chapada da Natividade;TO;Norte
+170510;Chapada de Areia;TO;Norte
+170550;Colinas do Tocantins;TO;Norte
+170555;Colméia;TO;Norte
+170560;Combinado;TO;Norte
+170600;Conceição do Tocantins;TO;Norte
+170610;Couto de Magalhães;TO;Norte
+170625;Cristalândia;TO;Norte
+170650;Crixás do Tocantins;TO;Norte
+170700;Darcinópolis;TO;Norte
+170710;Dianópolis;TO;Norte
+170720;Divinópolis do Tocantins;TO;Norte
+170730;Dois Irmãos do Tocantins;TO;Norte
+170740;Dueré;TO;Norte
+170755;Esperantina;TO;Norte
+170765;Fátima;TO;Norte
+170770;Figueirópolis;TO;Norte
+170820;Filadélfia;TO;Norte
+170825;Formoso do Araguaia;TO;Norte
+170830;Fortaleza do Tabocão;TO;Norte
+170900;Goianorte;TO;Norte
+170930;Goiatins;TO;Norte
+170950;Guaraí;TO;Norte
+170980;Gurupi;TO;Norte
+171050;Ipueiras;TO;Norte
+171070;Itacajá;TO;Norte
+171090;Itaguatins;TO;Norte
+171110;Itapiratins;TO;Norte
+171150;Itaporã do Tocantins;TO;Norte
+171180;Jaú do Tocantins;TO;Norte
+171190;Juarina;TO;Norte
+171195;Lagoa da Confusão;TO;Norte
+171200;Lagoa do Tocantins;TO;Norte
+171215;Lajeado;TO;Norte
+171240;Lavandeira;TO;Norte
+171245;Lizarda;TO;Norte
+171250;Luzinópolis;TO;Norte
+171270;Marianópolis do Tocantins;TO;Norte
+171280;Mateiros;TO;Norte
+171320;Maurilândia do Tocantins;TO;Norte
+171330;Miracema do Tocantins;TO;Norte
+171360;Miranorte;TO;Norte
+171370;Monte do Carmo;TO;Norte
+171380;Monte Santo do Tocantins;TO;Norte
+171395;Muricilândia;TO;Norte
+171420;Natividade;TO;Norte
+171430;Nazaré;TO;Norte
+171488;Nova Olinda;TO;Norte
+171500;Nova Rosalândia;TO;Norte
+171510;Novo Acordo;TO;Norte
+171515;Novo Alegre;TO;Norte
+171525;Novo Jardim;TO;Norte
+171550;Oliveira de Fátima;TO;Norte
+171570;Palmas;TO;Norte
+171575;Palmeirante;TO;Norte
+171610;Palmeiras do Tocantins;TO;Norte
+171620;Palmeirópolis;TO;Norte
+171630;Paraíso do Tocantins;TO;Norte
+171650;Paranã;TO;Norte
+171660;Pau D'Arco;TO;Norte
+171665;Pedro Afonso;TO;Norte
+171670;Peixe;TO;Norte
+171700;Pequizeiro;TO;Norte
+171720;Pindorama do Tocantins;TO;Norte
+171750;Piraquê;TO;Norte
+171780;Pium;TO;Norte
+171790;Ponte Alta do Bom Jesus;TO;Norte
+171800;Ponte Alta do Tocantins;TO;Norte
+171820;Porto Alegre do Tocantins;TO;Norte
+171830;Porto Nacional;TO;Norte
+171840;Praia Norte;TO;Norte
+171845;Presidente Kennedy;TO;Norte
+171850;Pugmil;TO;Norte
+171855;Recursolândia;TO;Norte
+171865;Riachinho;TO;Norte
+171870;Rio da Conceição;TO;Norte
+171875;Rio dos Bois;TO;Norte
+171880;Rio Sono;TO;Norte
+171884;Sampaio;TO;Norte
+171886;Sandolândia;TO;Norte
+171888;Santa Fé do Araguaia;TO;Norte
+171889;Santa Maria do Tocantins;TO;Norte
+171890;Santa Rita do Tocantins;TO;Norte
+171900;Santa Rosa do Tocantins;TO;Norte
+172000;Santa Tereza do Tocantins;TO;Norte
+172010;Santa Terezinha do Tocantins;TO;Norte
+172015;São Bento do Tocantins;TO;Norte
+172020;São Félix do Tocantins;TO;Norte
+172025;São Miguel do Tocantins;TO;Norte
+172030;São Salvador do Tocantins;TO;Norte
+172049;São Sebastião do Tocantins;TO;Norte
+172065;São Valério;TO;Norte
+172080;Silvanópolis;TO;Norte
+172085;Sítio Novo do Tocantins;TO;Norte
+172090;Sucupira;TO;Norte
+172093;Taguatinga;TO;Norte
+172097;Taipas do Tocantins;TO;Norte
+172100;Talismã;TO;Norte
+172110;Tocantínia;TO;Norte
+172120;Tocantinópolis;TO;Norte
+172125;Tupirama;TO;Norte
+172130;Tupiratins;TO;Norte
+172208;Wanderlândia;TO;Norte
+172210;Xambioá;TO;Norte
+210087;Açailândia;MA;Nordeste
+210197;Barra do Corda;MA;Nordeste
+210280;Carolina;MA;Nordeste
+210530;Imperatriz;MA;Nordeste
+210900;Porto Franco;MA;Nordeste
+211160;Sítio Novo;MA;Nordeste
+211200;Tocantinópolis;MA;Nordeste
+220390;Gilbués;PI;Nordeste
+291110;Barreiras;BA;Nordeste
+291170;Bom Jesus da Lapa;BA;Nordeste
+291955;Luís Eduardo Magalhães;BA;Nordeste
+312620;Governador Valadares;MG;Sudeste
+315445;Patos de Minas;MG;Sudeste
+330310;Macaé;RJ;Sudeste
+351880;Guarulhos;SP;Sudeste
+353930;Osasco;SP;Sudeste
+354780;Santo André;SP;Sudeste
+410480;Cascavel;PR;Sul
+410660;Curitiba;PR;Sul
+430558;Erechim;RS;Sul
+431647;Porto Alegre;RS;Sul
+431690;Santa Maria;RS;Sul
+500797;Campo Grande;MS;Centro-Oeste
+510335;Cuiabá;MT;Centro-Oeste
+520140;Anápolis;GO;Centro-Oeste
+520490;Caldas Novas;GO;Centro-Oeste
+520870;Goiânia;GO;Centro-Oeste
+521308;Luziânia;GO;Centro-Oeste
+522140;Rio Verde;GO;Centro-Oeste
+522160;Senador Canedo;GO;Centro-Oeste
+530010;Brasília;DF;Centro-Oeste

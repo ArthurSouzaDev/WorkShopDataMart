@@ -1,0 +1,199 @@
+﻿sk_paciente;idade;faixa_etaria;sexo
+1;1;Lactância;Feminino
+2;49;Meia-idade;Feminino
+3;72;Terceira idade;Masculino
+4;1;Lactância;Masculino
+5;2;Primeria infancia;Masculino
+6;24;Pós-adolescência;Feminino
+7;28;Adultidade;Feminino
+8;22;Pós-adolescência;Masculino
+9;41;Meia-idade;Feminino
+10;60;Meia-idade;Feminino
+11;17;Adolescência;Feminino
+12;22;Pós-adolescência;Feminino
+13;16;Adolescência;Feminino
+14;38;Adultidade;Feminino
+15;67;Terceira idade;Feminino
+16;77;Terceira idade;Feminino
+17;90;Quarta Idade;Masculino
+18;71;Terceira idade;Masculino
+19;80;Terceira idade;Feminino
+20;19;Pós-adolescência;Masculino
+21;42;Meia-idade;Masculino
+22;46;Meia-idade;Feminino
+23;54;Meia-idade;Feminino
+24;70;Terceira idade;Feminino
+25;23;Pós-adolescência;Masculino
+26;8;Segunda infancia;Feminino
+27;20;Pós-adolescência;Masculino
+28;33;Adultidade;Feminino
+29;58;Meia-idade;Feminino
+30;39;Adultidade;Feminino
+31;63;Meia-idade;Feminino
+32;47;Meia-idade;Feminino
+33;32;Adultidade;Feminino
+34;26;Pós-adolescência;Feminino
+35;25;Pós-adolescência;Masculino
+36;31;Adultidade;Feminino
+37;55;Meia-idade;Feminino
+38;72;Terceira idade;Feminino
+39;80;Terceira idade;Masculino
+40;60;Meia-idade;Masculino
+41;74;Terceira idade;Feminino
+42;82;Quarta Idade;Feminino
+43;69;Terceira idade;Masculino
+44;36;Adultidade;Masculino
+45;64;Meia-idade;Feminino
+46;43;Meia-idade;Feminino
+47;47;Meia-idade;Masculino
+48;27;Adultidade;Feminino
+49;46;Meia-idade;Masculino
+50;70;Terceira idade;Masculino
+51;81;Quarta Idade;Masculino
+52;52;Meia-idade;Feminino
+53;65;Meia-idade;Masculino
+54;59;Meia-idade;Masculino
+55;54;Meia-idade;Masculino
+56;88;Quarta Idade;Masculino
+57;92;Quarta Idade;Masculino
+58;28;Adultidade;Masculino
+59;78;Terceira idade;Feminino
+60;68;Terceira idade;Masculino
+61;38;Adultidade;Masculino
+62;31;Adultidade;Masculino
+63;44;Meia-idade;Feminino
+64;30;Adultidade;Feminino
+65;59;Meia-idade;Feminino
+66;14;Adolescência;Masculino
+67;40;Adultidade;Masculino
+68;37;Adultidade;Masculino
+69;17;Adolescência;Masculino
+70;58;Meia-idade;Masculino
+71;23;Pós-adolescência;Feminino
+72;48;Meia-idade;Feminino
+73;74;Terceira idade;Masculino
+74;8;Segunda infancia;Masculino
+75;4;Primeria infancia;Masculino
+76;2;Primeria infancia;Feminino
+77;24;Pós-adolescência;Masculino
+78;3;Primeria infancia;Masculino
+79;5;Segunda infancia;Feminino
+80;37;Adultidade;Feminino
+81;87;Quarta Idade;Masculino
+82;4;Primeria infancia;Feminino
+83;21;Pós-adolescência;Feminino
+84;25;Pós-adolescência;Feminino
+85;20;Pós-adolescência;Feminino
+86;55;Meia-idade;Masculino
+87;99;Quarta Idade;Masculino
+88;34;Adultidade;Masculino
+89;66;Terceira idade;Feminino
+90;21;Pós-adolescência;Masculino
+91;16;Adolescência;Masculino
+92;39;Adultidade;Masculino
+93;75;Terceira idade;Masculino
+94;40;Adultidade;Feminino
+95;10;Segunda infancia;Masculino
+96;26;Pós-adolescência;Masculino
+97;18;Adolescência;Feminino
+98;49;Meia-idade;Masculino
+99;86;Quarta Idade;Masculino
+100;61;Meia-idade;Masculino
+101;82;Quarta Idade;Masculino
+102;86;Quarta Idade;Feminino
+103;63;Meia-idade;Masculino
+104;62;Meia-idade;Masculino
+105;52;Meia-idade;Masculino
+106;35;Adultidade;Feminino
+107;29;Adultidade;Masculino
+108;83;Quarta Idade;Masculino
+109;42;Meia-idade;Feminino
+110;34;Adultidade;Feminino
+111;78;Terceira idade;Masculino
+112;18;Adolescência;Masculino
+113;76;Terceira idade;Feminino
+114;68;Terceira idade;Feminino
+115;19;Pós-adolescência;Feminino
+116;29;Adultidade;Feminino
+117;85;Quarta Idade;Masculino
+118;15;Adolescência;Feminino
+119;36;Adultidade;Feminino
+120;50;Meia-idade;Feminino
+121;35;Adultidade;Masculino
+122;48;Meia-idade;Masculino
+123;73;Terceira idade;Feminino
+124;51;Meia-idade;Feminino
+125;64;Meia-idade;Masculino
+126;93;Quarta Idade;Feminino
+127;65;Meia-idade;Feminino
+128;53;Meia-idade;Feminino
+129;57;Meia-idade;Masculino
+130;51;Meia-idade;Masculino
+131;56;Meia-idade;Feminino
+132;57;Meia-idade;Feminino
+133;61;Meia-idade;Feminino
+134;84;Quarta Idade;Feminino
+135;69;Terceira idade;Feminino
+136;76;Terceira idade;Masculino
+137;11;Pré-adolescência;Masculino
+138;15;Adolescência;Masculino
+139;89;Quarta Idade;Masculino
+140;67;Terceira idade;Masculino
+141;9;Segunda infancia;Masculino
+142;7;Segunda infancia;Feminino
+143;0;Lactância;Masculino
+144;73;Terceira idade;Masculino
+145;41;Meia-idade;Masculino
+146;56;Meia-idade;Masculino
+147;12;Pré-adolescência;Masculino
+148;44;Meia-idade;Masculino
+149;97;Quarta Idade;Feminino
+150;79;Terceira idade;Feminino
+151;33;Adultidade;Masculino
+152;84;Quarta Idade;Masculino
+153;81;Quarta Idade;Feminino
+154;95;Quarta Idade;Masculino
+155;45;Meia-idade;Feminino
+156;13;Pré-adolescência;Masculino
+157;6;Segunda infancia;Feminino
+158;3;Primeria infancia;Feminino
+159;5;Segunda infancia;Masculino
+160;30;Adultidade;Masculino
+161;75;Terceira idade;Feminino
+162;12;Pré-adolescência;Feminino
+163;43;Meia-idade;Masculino
+164;45;Meia-idade;Masculino
+165;27;Adultidade;Masculino
+166;71;Terceira idade;Feminino
+167;10;Segunda infancia;Feminino
+168;53;Meia-idade;Masculino
+169;66;Terceira idade;Masculino
+170;62;Meia-idade;Feminino
+171;88;Quarta Idade;Feminino
+172;32;Adultidade;Masculino
+173;91;Quarta Idade;Feminino
+174;83;Quarta Idade;Feminino
+175;89;Quarta Idade;Feminino
+176;0;Lactância;Feminino
+177;7;Segunda infancia;Masculino
+178;50;Meia-idade;Masculino
+179;9;Segunda infancia;Feminino
+180;11;Pré-adolescência;Feminino
+181;77;Terceira idade;Masculino
+182;85;Quarta Idade;Feminino
+183;96;Quarta Idade;Masculino
+184;79;Terceira idade;Masculino
+185;99;Quarta Idade;Feminino
+186;94;Quarta Idade;Masculino
+187;90;Quarta Idade;Feminino
+188;6;Segunda infancia;Masculino
+189;87;Quarta Idade;Feminino
+190;13;Pré-adolescência;Feminino
+191;92;Quarta Idade;Feminino
+192;93;Quarta Idade;Masculino
+193;14;Adolescência;Feminino
+194;95;Quarta Idade;Feminino
+195;94;Quarta Idade;Feminino
+196;91;Quarta Idade;Masculino
+197;96;Quarta Idade;Feminino
+198;97;Quarta Idade;Masculino

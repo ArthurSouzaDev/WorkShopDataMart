@@ -1,0 +1,1423 @@
+﻿sk_diag;cid;descricao_cid;categoria_cid
+1;I889;CID I889;Doenças do aparelho circulatório
+2;J189;CID J189;Doenças do aparelho respiratório
+3;E149;CID E149;Doenças endócrinas e metabólicas
+4;G911;CID G911;Doenças do sistema nervoso
+5;Q780;CID Q780;Malformações congênitas
+6;F09;CID F09;Transtornos mentais e comportamentais
+7;F158;CID F158;Transtornos mentais e comportamentais
+8;F252;CID F252;Transtornos mentais e comportamentais
+9;I844;CID I844;Doenças do aparelho circulatório
+10;S723;CID S723;Lesões e causas externas
+11;O800;CID O800;Gravidez, parto e puerpério
+12;C443;CID C443;Neoplasias
+13;Q892;CID Q892;Malformações congênitas
+14;D440;CID D440;Neoplasias / Doenças do sangue
+15;D117;CID D117;Neoplasias / Doenças do sangue
+16;E145;CID E145;Doenças endócrinas e metabólicas
+17;A419;CID A419;Doenças infecciosas e parasitárias
+18;S630;CID S630;Lesões e causas externas
+19;S624;CID S624;Lesões e causas externas
+20;K80;CID K80;Doenças do aparelho digestivo
+21;S271;CID S271;Lesões e causas externas
+22;M494;CID M494;Doenças do sistema osteomuscular
+23;L03;CID L03;Doenças da pele
+24;K35;CID K35;Doenças do aparelho digestivo
+25;T23;CID T23;Lesões e causas externas
+26;T846;CID T846;Lesões e causas externas
+27;S627;CID S627;Lesões e causas externas
+28;S662;CID S662;Lesões e causas externas
+29;Z302;CID Z302;Fatores que influenciam o estado de saúde
+30;C500;CID C500;Neoplasias
+31;N818;CID N818;Doenças do aparelho geniturinário
+32;N759;CID N759;Doenças do aparelho geniturinário
+33;S068;CID S068;Lesões e causas externas
+34;I803;CID I803;Doenças do aparelho circulatório
+35;K929;CID K929;Doenças do aparelho digestivo
+36;I64;CID I64;Doenças do aparelho circulatório
+37;J300;CID J300;Doenças do aparelho respiratório
+38;I61;CID I61;Doenças do aparelho circulatório
+39;I442;CID I442;Doenças do aparelho circulatório
+40;C50;CID C50;Neoplasias
+41;I516;CID I516;Doenças do aparelho circulatório
+42;J18;CID J18;Doenças do aparelho respiratório
+43;N11;CID N11;Doenças do aparelho geniturinário
+44;N201;CID N201;Doenças do aparelho geniturinário
+45;C41;CID C41;Neoplasias
+46;G569;CID G569;Doenças do sistema nervoso
+47;K40;CID K40;Doenças do aparelho digestivo
+48;I10;CID I10;Doenças do aparelho circulatório
+49;C34;CID C34;Neoplasias
+50;K638;CID K638;Doenças do aparelho digestivo
+51;C410;CID C410;Neoplasias
+52;S020;CID S020;Lesões e causas externas
+53;D329;CID D329;Neoplasias / Doenças do sangue
+54;N390;CID N390;Doenças do aparelho geniturinário
+55;J96;CID J96;Doenças do aparelho respiratório
+56;S622;CID S622;Lesões e causas externas
+57;I50;CID I50;Doenças do aparelho circulatório
+58;K920;CID K920;Doenças do aparelho digestivo
+59;F103;CID F103;Transtornos mentais e comportamentais
+60;F23;CID F23;Transtornos mentais e comportamentais
+61;F29;CID F29;Transtornos mentais e comportamentais
+62;F239;CID F239;Transtornos mentais e comportamentais
+63;F200;CID F200;Transtornos mentais e comportamentais
+64;F25;CID F25;Transtornos mentais e comportamentais
+65;D410;CID D410;Neoplasias / Doenças do sangue
+66;N189;CID N189;Doenças do aparelho geniturinário
+67;I289;CID I289;Doenças do aparelho circulatório
+68;I219;CID I219;Doenças do aparelho circulatório
+69;G468;CID G468;Doenças do sistema nervoso
+70;T068;CID T068;Lesões e causas externas
+71;C349;CID C349;Neoplasias
+72;N939;CID N939;Doenças do aparelho geniturinário
+73;E138;CID E138;Doenças endócrinas e metabólicas
+74;N328;CID N328;Doenças do aparelho geniturinário
+75;K805;CID K805;Doenças do aparelho digestivo
+76;E741;CID E741;Doenças endócrinas e metabólicas
+77;G400;CID G400;Doenças do sistema nervoso
+78;L989;CID L989;Doenças da pele
+79;I428;CID I428;Doenças do aparelho circulatório
+80;J110;CID J110;Doenças do aparelho respiratório
+81;K521;CID K521;Doenças do aparelho digestivo
+82;L139;CID L139;Doenças da pele
+83;C71;CID C71;Neoplasias
+84;G406;CID G406;Doenças do sistema nervoso
+85;G378;CID G378;Doenças do sistema nervoso
+86;C763;CID C763;Neoplasias
+87;J041;CID J041;Doenças do aparelho respiratório
+88;N801;CID N801;Doenças do aparelho geniturinário
+89;S820;CID S820;Lesões e causas externas
+90;O639;CID O639;Gravidez, parto e puerpério
+91;S061;CID S061;Lesões e causas externas
+92;J159;CID J159;Doenças do aparelho respiratório
+93;I509;CID I509;Doenças do aparelho circulatório
+94;T632;CID T632;Lesões e causas externas
+95;M629;CID M629;Doenças do sistema osteomuscular
+96;L089;CID L089;Doenças da pele
+97;S623;CID S623;Lesões e causas externas
+98;K819;CID K819;Doenças do aparelho digestivo
+99;K429;CID K429;Doenças do aparelho digestivo
+100;J358;CID J358;Doenças do aparelho respiratório
+101;J350;CID J350;Doenças do aparelho respiratório
+102;O669;CID O669;Gravidez, parto e puerpério
+103;A480;CID A480;Doenças infecciosas e parasitárias
+104;S069;CID S069;Lesões e causas externas
+105;C069;CID C069;Neoplasias
+106;C187;CID C187;Neoplasias
+107;C53;CID C53;Neoplasias
+108;C44;CID C44;Neoplasias
+109;E141;CID E141;Doenças endócrinas e metabólicas
+110;K74;CID K74;Doenças do aparelho digestivo
+111;K859;CID K859;Doenças do aparelho digestivo
+112;K703;CID K703;Doenças do aparelho digestivo
+113;J81;CID J81;Doenças do aparelho respiratório
+114;G30;CID G30;Doenças do sistema nervoso
+115;C531;CID C531;Neoplasias
+116;K858;CID K858;Doenças do aparelho digestivo
+117;T019;CID T019;Lesões e causas externas
+118;R55;CID R55;Sintomas e sinais anormais
+119;K86;CID K86;Doenças do aparelho digestivo
+120;C61;CID C61;Neoplasias
+121;M51;CID M51;Doenças do sistema osteomuscular
+122;S82;CID S82;Lesões e causas externas
+123;L032;CID L032;Doenças da pele
+124;S018;CID S018;Lesões e causas externas
+125;K818;CID K818;Doenças do aparelho digestivo
+126;C15;CID C15;Neoplasias
+127;A90;CID A90;Doenças infecciosas e parasitárias
+128;O209;CID O209;Gravidez, parto e puerpério
+129;O334;CID O334;Gravidez, parto e puerpério
+130;O641;CID O641;Gravidez, parto e puerpério
+131;J180;CID J180;Doenças do aparelho respiratório
+132;R300;CID R300;Sintomas e sinais anormais
+133;N816;CID N816;Doenças do aparelho geniturinário
+134;N811;CID N811;Doenças do aparelho geniturinário
+135;O342;CID O342;Gravidez, parto e puerpério
+136;O654;CID O654;Gravidez, parto e puerpério
+137;D539;CID D539;Neoplasias / Doenças do sangue
+138;H669;CID H669;Doenças dos olhos / ouvidos
+139;A499;CID A499;Doenças infecciosas e parasitárias
+140;S325;CID S325;Lesões e causas externas
+141;A929;CID A929;Doenças infecciosas e parasitárias
+142;O48;CID O48;Gravidez, parto e puerpério
+143;O141;CID O141;Gravidez, parto e puerpério
+144;I48;CID I48;Doenças do aparelho circulatório
+145;E119;CID E119;Doenças endócrinas e metabólicas
+146;C182;CID C182;Neoplasias
+147;C539;CID C539;Neoplasias
+148;T818;CID T818;Lesões e causas externas
+149;K760;CID K760;Doenças do aparelho digestivo
+150;T028;CID T028;Lesões e causas externas
+151;C56;CID C56;Neoplasias
+152;S060;CID S060;Lesões e causas externas
+153;C16;CID C16;Neoplasias
+154;L031;CID L031;Doenças da pele
+155;I82;CID I82;Doenças do aparelho circulatório
+156;D508;CID D508;Neoplasias / Doenças do sangue
+157;F929;CID F929;Transtornos mentais e comportamentais
+158;E108;CID E108;Doenças endócrinas e metabólicas
+159;J440;CID J440;Doenças do aparelho respiratório
+160;J690;CID J690;Doenças do aparelho respiratório
+161;H678;CID H678;Doenças dos olhos / ouvidos
+162;K590;CID K590;Doenças do aparelho digestivo
+163;S373;CID S373;Lesões e causas externas
+164;J90;CID J90;Doenças do aparelho respiratório
+165;O429;CID O429;Gravidez, parto e puerpério
+166;S880;CID S880;Lesões e causas externas
+167;K870;CID K870;Doenças do aparelho digestivo
+168;T111;CID T111;Lesões e causas externas
+169;B92;CID B92;Doenças infecciosas e parasitárias
+170;S520;CID S520;Lesões e causas externas
+171;J449;CID J449;Doenças do aparelho respiratório
+172;J441;CID J441;Doenças do aparelho respiratório
+173;O42;CID O42;Gravidez, parto e puerpério
+174;I638;CID I638;Doenças do aparelho circulatório
+175;A09;CID A09;Doenças infecciosas e parasitárias
+176;P369;CID P369;Afecções perinatais
+177;Q100;CID Q100;Malformações congênitas
+178;R51;CID R51;Sintomas e sinais anormais
+179;O809;CID O809;Gravidez, parto e puerpério
+180;E148;CID E148;Doenças endócrinas e metabólicas
+181;A46;CID A46;Doenças infecciosas e parasitárias
+182;D649;CID D649;Neoplasias / Doenças do sangue
+183;M545;CID M545;Doenças do sistema osteomuscular
+184;J36;CID J36;Doenças do aparelho respiratório
+185;O149;CID O149;Gravidez, parto e puerpério
+186;S729;CID S729;Lesões e causas externas
+187;D500;CID D500;Neoplasias / Doenças do sangue
+188;T813;CID T813;Lesões e causas externas
+189;Z478;CID Z478;Fatores que influenciam o estado de saúde
+190;S525;CID S525;Lesões e causas externas
+191;S960;CID S960;Lesões e causas externas
+192;S825;CID S825;Lesões e causas externas
+193;S626;CID S626;Lesões e causas externas
+194;S423;CID S423;Lesões e causas externas
+195;S826;CID S826;Lesões e causas externas
+196;S823;CID S823;Lesões e causas externas
+197;S829;CID S829;Lesões e causas externas
+198;S828;CID S828;Lesões e causas externas
+199;S930;CID S930;Lesões e causas externas
+200;S720;CID S720;Lesões e causas externas
+201;N180;CID N180;Doenças do aparelho geniturinário
+202;I500;CID I500;Doenças do aparelho circulatório
+203;T633;CID T633;Lesões e causas externas
+204;B342;CID B342;Doenças infecciosas e parasitárias
+205;K801;CID K801;Doenças do aparelho digestivo
+206;K319;CID K319;Doenças do aparelho digestivo
+207;O234;CID O234;Gravidez, parto e puerpério
+208;T136;CID T136;Lesões e causas externas
+209;K804;CID K804;Doenças do aparelho digestivo
+210;K359;CID K359;Doenças do aparelho digestivo
+211;S669;CID S669;Lesões e causas externas
+212;N151;CID N151;Doenças do aparelho geniturinário
+213;I843;CID I843;Doenças do aparelho circulatório
+214;S06;CID S06;Lesões e causas externas
+215;I619;CID I619;Doenças do aparelho circulatório
+216;C348;CID C348;Neoplasias
+217;C509;CID C509;Neoplasias
+218;K820;CID K820;Doenças do aparelho digestivo
+219;R31;CID R31;Sintomas e sinais anormais
+220;I471;CID I471;Doenças do aparelho circulatório
+221;K928;CID K928;Doenças do aparelho digestivo
+222;T889;CID T889;Lesões e causas externas
+223;J984;CID J984;Doenças do aparelho respiratório
+224;I409;CID I409;Doenças do aparelho circulatório
+225;G308;CID G308;Doenças do sistema nervoso
+226;I612;CID I612;Doenças do aparelho circulatório
+227;J158;CID J158;Doenças do aparelho respiratório
+228;C922;CID C922;Neoplasias
+229;J960;CID J960;Doenças do aparelho respiratório
+230;T509;CID T509;Lesões e causas externas
+231;N433;CID N433;Doenças do aparelho geniturinário
+232;T519;CID T519;Lesões e causas externas
+233;C329;CID C329;Neoplasias
+234;G404;CID G404;Doenças do sistema nervoso
+235;C530;CID C530;Neoplasias
+236;N872;CID N872;Doenças do aparelho geniturinário
+237;K565;CID K565;Doenças do aparelho digestivo
+238;I251;CID I251;Doenças do aparelho circulatório
+239;C54;CID C54;Neoplasias
+240;C498;CID C498;Neoplasias
+241;N63;CID N63;Doenças do aparelho geniturinário
+242;N648;CID N648;Doenças do aparelho geniturinário
+243;J353;CID J353;Doenças do aparelho respiratório
+244;C508;CID C508;Neoplasias
+245;C538;CID C538;Neoplasias
+246;K861;CID K861;Doenças do aparelho digestivo
+247;L038;CID L038;Doenças da pele
+248;I211;CID I211;Doenças do aparelho circulatório
+249;K528;CID K528;Doenças do aparelho digestivo
+250;D759;CID D759;Neoplasias / Doenças do sangue
+251;A289;CID A289;Doenças infecciosas e parasitárias
+252;N110;CID N110;Doenças do aparelho geniturinário
+253;H653;CID H653;Doenças dos olhos / ouvidos
+254;J40;CID J40;Doenças do aparelho respiratório
+255;J100;CID J100;Doenças do aparelho respiratório
+256;D77;CID D77;Neoplasias / Doenças do sangue
+257;E728;CID E728;Doenças endócrinas e metabólicas
+258;R571;CID R571;Sintomas e sinais anormais
+259;J848;CID J848;Doenças do aparelho respiratório
+260;C161;CID C161;Neoplasias
+261;F059;CID F059;Transtornos mentais e comportamentais
+262;F322;CID F322;Transtornos mentais e comportamentais
+263;F318;CID F318;Transtornos mentais e comportamentais
+264;F101;CID F101;Transtornos mentais e comportamentais
+265;K409;CID K409;Doenças do aparelho digestivo
+266;M256;CID M256;Doenças do sistema osteomuscular
+267;S022;CID S022;Lesões e causas externas
+268;S929;CID S929;Lesões e causas externas
+269;T817;CID T817;Lesões e causas externas
+270;G560;CID G560;Doenças do sistema nervoso
+271;S531;CID S531;Lesões e causas externas
+272;B338;CID B338;Doenças infecciosas e parasitárias
+273;N179;CID N179;Doenças do aparelho geniturinário
+274;R570;CID R570;Sintomas e sinais anormais
+275;F411;CID F411;Transtornos mentais e comportamentais
+276;R33;CID R33;Sintomas e sinais anormais
+277;S420;CID S420;Lesões e causas externas
+278;G409;CID G409;Doenças do sistema nervoso
+279;I441;CID I441;Doenças do aparelho circulatório
+280;F410;CID F410;Transtornos mentais e comportamentais
+281;C17;CID C17;Neoplasias
+282;N39;CID N39;Doenças do aparelho geniturinário
+283;C901;CID C901;Neoplasias
+284;I200;CID I200;Doenças do aparelho circulatório
+285;K860;CID K860;Doenças do aparelho digestivo
+286;N480;CID N480;Doenças do aparelho geniturinário
+287;S527;CID S527;Lesões e causas externas
+288;S923;CID S923;Lesões e causas externas
+289;S822;CID S822;Lesões e causas externas
+290;T841;CID T841;Lesões e causas externas
+291;T63;CID T63;Lesões e causas externas
+292;K56;CID K56;Doenças do aparelho digestivo
+293;K800;CID K800;Doenças do aparelho digestivo
+294;T479;CID T479;Lesões e causas externas
+295;K296;CID K296;Doenças do aparelho digestivo
+296;O239;CID O239;Gravidez, parto e puerpério
+297;L509;CID L509;Doenças da pele
+298;J448;CID J448;Doenças do aparelho respiratório
+299;C67;CID C67;Neoplasias
+300;N209;CID N209;Doenças do aparelho geniturinário
+301;O064;CID O064;Gravidez, parto e puerpério
+302;J342;CID J342;Doenças do aparelho respiratório
+303;C448;CID C448;Neoplasias
+304;S065;CID S065;Lesões e causas externas
+305;O689;CID O689;Gravidez, parto e puerpério
+306;O008;CID O008;Gravidez, parto e puerpério
+307;O909;CID O909;Gravidez, parto e puerpério
+308;O85;CID O85;Gravidez, parto e puerpério
+309;K297;CID K297;Doenças do aparelho digestivo
+310;A060;CID A060;Doenças infecciosas e parasitárias
+311;K625;CID K625;Doenças do aparelho digestivo
+312;J14;CID J14;Doenças do aparelho respiratório
+313;C959;CID C959;Neoplasias
+314;C218;CID C218;Neoplasias
+315;A084;CID A084;Doenças infecciosas e parasitárias
+316;K566;CID K566;Doenças do aparelho digestivo
+317;T848;CID T848;Lesões e causas externas
+318;O13;CID O13;Gravidez, parto e puerpério
+319;O001;CID O001;Gravidez, parto e puerpério
+320;Q518;CID Q518;Malformações congênitas
+321;O300;CID O300;Gravidez, parto e puerpério
+322;O244;CID O244;Gravidez, parto e puerpério
+323;R104;CID R104;Sintomas e sinais anormais
+324;O051;CID O051;Gravidez, parto e puerpério
+325;T639;CID T639;Lesões e causas externas
+326;A509;CID A509;Doenças infecciosas e parasitárias
+327;J459;CID J459;Doenças do aparelho respiratório
+328;P509;CID P509;Afecções perinatais
+329;N049;CID N049;Doenças do aparelho geniturinário
+330;I888;CID I888;Doenças do aparelho circulatório
+331;N009;CID N009;Doenças do aparelho geniturinário
+332;B002;CID B002;Doenças infecciosas e parasitárias
+333;S522;CID S522;Lesões e causas externas
+334;S526;CID S526;Lesões e causas externas
+335;S424;CID S424;Lesões e causas externas
+336;N47;CID N47;Doenças do aparelho geniturinário
+337;O759;CID O759;Gravidez, parto e puerpério
+338;O750;CID O750;Gravidez, parto e puerpério
+339;S523;CID S523;Lesões e causas externas
+340;N832;CID N832;Doenças do aparelho geniturinário
+341;D259;CID D259;Neoplasias / Doenças do sangue
+342;D250;CID D250;Neoplasias / Doenças do sangue
+343;I456;CID I456;Doenças do aparelho circulatório
+344;C774;CID C774;Neoplasias
+345;I210;CID I210;Doenças do aparelho circulatório
+346;T203;CID T203;Lesões e causas externas
+347;S099;CID S099;Lesões e causas externas
+348;L97;CID L97;Doenças da pele
+349;T233;CID T233;Lesões e causas externas
+350;N350;CID N350;Doenças do aparelho geniturinário
+351;O021;CID O021;Gravidez, parto e puerpério
+352;O623;CID O623;Gravidez, parto e puerpério
+353;O998;CID O998;Gravidez, parto e puerpério
+354;O243;CID O243;Gravidez, parto e puerpério
+355;P073;CID P073;Afecções perinatais
+356;P398;CID P398;Afecções perinatais
+357;P229;CID P229;Afecções perinatais
+358;I350;CID I350;Doenças do aparelho circulatório
+359;N40;CID N40;Doenças do aparelho geniturinário
+360;I674;CID I674;Doenças do aparelho circulatório
+361;J068;CID J068;Doenças do aparelho respiratório
+362;G309;CID G309;Doenças do sistema nervoso
+363;C449;CID C449;Neoplasias
+364;T96;CID T96;Lesões e causas externas
+365;C003;CID C003;Neoplasias
+366;G318;CID G318;Doenças do sistema nervoso
+367;F608;CID F608;Transtornos mentais e comportamentais
+368;F175;CID F175;Transtornos mentais e comportamentais
+369;F328;CID F328;Transtornos mentais e comportamentais
+370;F238;CID F238;Transtornos mentais e comportamentais
+371;F312;CID F312;Transtornos mentais e comportamentais
+372;F609;CID F609;Transtornos mentais e comportamentais
+373;O680;CID O680;Gravidez, parto e puerpério
+374;I600;CID I600;Doenças do aparelho circulatório
+375;I110;CID I110;Doenças do aparelho circulatório
+376;P599;CID P599;Afecções perinatais
+377;A502;CID A502;Doenças infecciosas e parasitárias
+378;B24;CID B24;Doenças infecciosas e parasitárias
+379;K710;CID K710;Doenças do aparelho digestivo
+380;T630;CID T630;Lesões e causas externas
+381;C158;CID C158;Neoplasias
+382;T959;CID T959;Lesões e causas externas
+383;S469;CID S469;Lesões e causas externas
+384;K919;CID K919;Doenças do aparelho digestivo
+385;M009;CID M009;Doenças do sistema osteomuscular
+386;S422;CID S422;Lesões e causas externas
+387;S681;CID S681;Lesões e causas externas
+388;I240;CID I240;Doenças do aparelho circulatório
+389;S925;CID S925;Lesões e causas externas
+390;N200;CID N200;Doenças do aparelho geniturinário
+391;T297;CID T297;Lesões e causas externas
+392;S023;CID S023;Lesões e causas externas
+393;N138;CID N138;Doenças do aparelho geniturinário
+394;K72;CID K72;Doenças do aparelho digestivo
+395;K29;CID K29;Doenças do aparelho digestivo
+396;K922;CID K922;Doenças do aparelho digestivo
+397;I680;CID I680;Doenças do aparelho circulatório
+398;L984;CID L984;Doenças da pele
+399;S31;CID S31;Lesões e causas externas
+400;S730;CID S730;Lesões e causas externas
+401;S821;CID S821;Lesões e causas externas
+402;S830;CID S830;Lesões e causas externas
+403;Z741;CID Z741;Fatores que influenciam o estado de saúde
+404;S528;CID S528;Lesões e causas externas
+405;T294;CID T294;Lesões e causas externas
+406;S219;CID S219;Lesões e causas externas
+407;C950;CID C950;Neoplasias
+408;G610;CID G610;Doenças do sistema nervoso
+409;J969;CID J969;Doenças do aparelho respiratório
+410;T131;CID T131;Lesões e causas externas
+411;C259;CID C259;Neoplasias
+412;S328;CID S328;Lesões e causas externas
+413;S017;CID S017;Lesões e causas externas
+414;E118;CID E118;Doenças endócrinas e metabólicas
+415;C050;CID C050;Neoplasias
+416;T758;CID T758;Lesões e causas externas
+417;K564;CID K564;Doenças do aparelho digestivo
+418;K598;CID K598;Doenças do aparelho digestivo
+419;K938;CID K938;Doenças do aparelho digestivo
+420;A080;CID A080;Doenças infecciosas e parasitárias
+421;I809;CID I809;Doenças do aparelho circulatório
+422;S026;CID S026;Lesões e causas externas
+423;P95;CID P95;Afecções perinatais
+424;T844;CID T844;Lesões e causas externas
+425;K420;CID K420;Doenças do aparelho digestivo
+426;M713;CID M713;Doenças do sistema osteomuscular
+427;S72;CID S72;Lesões e causas externas
+428;I21;CID I21;Doenças do aparelho circulatório
+429;G919;CID G919;Doenças do sistema nervoso
+430;S628;CID S628;Lesões e causas externas
+431;S370;CID S370;Lesões e causas externas
+432;I739;CID I739;Doenças do aparelho circulatório
+433;T191;CID T191;Lesões e causas externas
+434;K81;CID K81;Doenças do aparelho digestivo
+435;C001;CID C001;Neoplasias
+436;S428;CID S428;Lesões e causas externas
+437;C65;CID C65;Neoplasias
+438;I69;CID I69;Doenças do aparelho circulatório
+439;N359;CID N359;Doenças do aparelho geniturinário
+440;K635;CID K635;Doenças do aparelho digestivo
+441;K25;CID K25;Doenças do aparelho digestivo
+442;S68;CID S68;Lesões e causas externas
+443;S066;CID S066;Lesões e causas externas
+444;D172;CID D172;Neoplasias / Doenças do sangue
+445;L029;CID L029;Doenças da pele
+446;C749;CID C749;Neoplasias
+447;Q660;CID Q660;Malformações congênitas
+448;S431;CID S431;Lesões e causas externas
+449;O621;CID O621;Gravidez, parto e puerpério
+450;O479;CID O479;Gravidez, parto e puerpério
+451;O993;CID O993;Gravidez, parto e puerpério
+452;O470;CID O470;Gravidez, parto e puerpério
+453;G433;CID G433;Doenças do sistema nervoso
+454;F319;CID F319;Transtornos mentais e comportamentais
+455;R32;CID R32;Sintomas e sinais anormais
+456;S224;CID S224;Lesões e causas externas
+457;R52;CID R52;Sintomas e sinais anormais
+458;S159;CID S159;Lesões e causas externas
+459;I258;CID I258;Doenças do aparelho circulatório
+460;C760;CID C760;Neoplasias
+461;A305;CID A305;Doenças infecciosas e parasitárias
+462;B551;CID B551;Doenças infecciosas e parasitárias
+463;I083;CID I083;Doenças do aparelho circulatório
+464;S334;CID S334;Lesões e causas externas
+465;T814;CID T814;Lesões e causas externas
+466;F311;CID F311;Transtornos mentais e comportamentais
+467;J154;CID J154;Doenças do aparelho respiratório
+468;P598;CID P598;Afecções perinatais
+469;P368;CID P368;Afecções perinatais
+470;P228;CID P228;Afecções perinatais
+471;L080;CID L080;Doenças da pele
+472;J129;CID J129;Doenças do aparelho respiratório
+473;S056;CID S056;Lesões e causas externas
+474;P220;CID P220;Afecções perinatais
+475;S430;CID S430;Lesões e causas externas
+476;S721;CID S721;Lesões e causas externas
+477;I11;CID I11;Doenças do aparelho circulatório
+478;G510;CID G510;Doenças do sistema nervoso
+479;M861;CID M861;Doenças do sistema osteomuscular
+480;S62;CID S62;Lesões e causas externas
+481;B55;CID B55;Doenças infecciosas e parasitárias
+482;N202;CID N202;Doenças do aparelho geniturinário
+483;S12;CID S12;Lesões e causas externas
+484;C81;CID C81;Neoplasias
+485;Q709;CID Q709;Malformações congênitas
+486;T174;CID T174;Lesões e causas externas
+487;T093;CID T093;Lesões e causas externas
+488;K318;CID K318;Doenças do aparelho digestivo
+489;S463;CID S463;Lesões e causas externas
+490;C519;CID C519;Neoplasias
+491;I514;CID I514;Doenças do aparelho circulatório
+492;J958;CID J958;Doenças do aparelho respiratório
+493;I792;CID I792;Doenças do aparelho circulatório
+494;C859;CID C859;Neoplasias
+495;C029;CID C029;Neoplasias
+496;S367;CID S367;Lesões e causas externas
+497;N938;CID N938;Doenças do aparelho geniturinário
+498;D758;CID D758;Neoplasias / Doenças do sangue
+499;C341;CID C341;Neoplasias
+500;N10;CID N10;Doenças do aparelho geniturinário
+501;P968;CID P968;Afecções perinatais
+502;P704;CID P704;Afecções perinatais
+503;C170;CID C170;Neoplasias
+504;P39;CID P39;Afecções perinatais
+505;P358;CID P358;Afecções perinatais
+506;K808;CID K808;Doenças do aparelho digestivo
+507;C220;CID C220;Neoplasias
+508;R02;CID R02;Sintomas e sinais anormais
+509;S818;CID S818;Lesões e causas externas
+510;K83;CID K83;Doenças do aparelho digestivo
+511;S70;CID S70;Lesões e causas externas
+512;S43;CID S43;Lesões e causas externas
+513;M958;CID M958;Doenças do sistema osteomuscular
+514;K563;CID K563;Doenças do aparelho digestivo
+515;S029;CID S029;Lesões e causas externas
+516;O200;CID O200;Gravidez, parto e puerpério
+517;O908;CID O908;Gravidez, parto e puerpério
+518;O335;CID O335;Gravidez, parto e puerpério
+519;O321;CID O321;Gravidez, parto e puerpério
+520;O069;CID O069;Gravidez, parto e puerpério
+521;O249;CID O249;Gravidez, parto e puerpério
+522;N399;CID N399;Doenças do aparelho geniturinário
+523;R56;CID R56;Sintomas e sinais anormais
+524;C189;CID C189;Neoplasias
+525;C180;CID C180;Neoplasias
+526;N750;CID N750;Doenças do aparelho geniturinário
+527;E111;CID E111;Doenças endócrinas e metabólicas
+528;N130;CID N130;Doenças do aparelho geniturinário
+529;I159;CID I159;Doenças do aparelho circulatório
+530;F102;CID F102;Transtornos mentais e comportamentais
+531;R040;CID R040;Sintomas e sinais anormais
+532;G419;CID G419;Doenças do sistema nervoso
+533;J128;CID J128;Doenças do aparelho respiratório
+534;J91;CID J91;Doenças do aparelho respiratório
+535;K838;CID K838;Doenças do aparelho digestivo
+536;K754;CID K754;Doenças do aparelho digestivo
+537;T842;CID T842;Lesões e causas externas
+538;S661;CID S661;Lesões e causas externas
+539;O034;CID O034;Gravidez, parto e puerpério
+540;K403;CID K403;Doenças do aparelho digestivo
+541;S724;CID S724;Lesões e causas externas
+542;S722;CID S722;Lesões e causas externas
+543;K828;CID K828;Doenças do aparelho digestivo
+544;O645;CID O645;Gravidez, parto e puerpério
+545;O366;CID O366;Gravidez, parto e puerpério
+546;B171;CID B171;Doenças infecciosas e parasitárias
+547;N258;CID N258;Doenças do aparelho geniturinário
+548;S118;CID S118;Lesões e causas externas
+549;J218;CID J218;Doenças do aparelho respiratório
+550;A858;CID A858;Doenças infecciosas e parasitárias
+551;P390;CID P390;Afecções perinatais
+552;P070;CID P070;Afecções perinatais
+553;N906;CID N906;Doenças do aparelho geniturinário
+554;O338;CID O338;Gravidez, parto e puerpério
+555;O619;CID O619;Gravidez, parto e puerpério
+556;D057;CID D057;Neoplasias / Doenças do sangue
+557;C022;CID C022;Neoplasias
+558;M211;CID M211;Doenças do sistema osteomuscular
+559;K802;CID K802;Doenças do aparelho digestivo
+560;K810;CID K810;Doenças do aparelho digestivo
+561;T213;CID T213;Lesões e causas externas
+562;N813;CID N813;Doenças do aparelho geniturinário
+563;O730;CID O730;Gravidez, parto e puerpério
+564;O911;CID O911;Gravidez, parto e puerpério
+565;O860;CID O860;Gravidez, parto e puerpério
+566;P219;CID P219;Afecções perinatais
+567;P221;CID P221;Afecções perinatais
+568;P925;CID P925;Afecções perinatais
+569;O309;CID O309;Gravidez, parto e puerpério
+570;O459;CID O459;Gravidez, parto e puerpério
+571;C18;CID C18;Neoplasias
+572;J988;CID J988;Doenças do aparelho respiratório
+573;D720;CID D720;Neoplasias / Doenças do sangue
+574;O100;CID O100;Gravidez, parto e puerpério
+575;P210;CID P210;Afecções perinatais
+576;P051;CID P051;Afecções perinatais
+577;P071;CID P071;Afecções perinatais
+578;I221;CID I221;Doenças do aparelho circulatório
+579;D181;CID D181;Neoplasias / Doenças do sangue
+580;I495;CID I495;Doenças do aparelho circulatório
+581;Q652;CID Q652;Malformações congênitas
+582;M840;CID M840;Doenças do sistema osteomuscular
+583;K36;CID K36;Doenças do aparelho digestivo
+584;S024;CID S024;Lesões e causas externas
+585;K631;CID K631;Doenças do aparelho digestivo
+586;K469;CID K469;Doenças do aparelho digestivo
+587;R11;CID R11;Sintomas e sinais anormais
+588;C711;CID C711;Neoplasias
+589;L919;CID L919;Doenças da pele
+590;K43;CID K43;Doenças do aparelho digestivo
+591;K412;CID K412;Doenças do aparelho digestivo
+592;R074;CID R074;Sintomas e sinais anormais
+593;I743;CID I743;Doenças do aparelho circulatório
+594;S920;CID S920;Lesões e causas externas
+595;C482;CID C482;Neoplasias
+596;S427;CID S427;Lesões e causas externas
+597;N879;CID N879;Doenças do aparelho geniturinário
+598;S913;CID S913;Lesões e causas externas
+599;Z525;CID Z525;Fatores que influenciam o estado de saúde
+600;N188;CID N188;Doenças do aparelho geniturinário
+601;K250;CID K250;Doenças do aparelho digestivo
+602;I808;CID I808;Doenças do aparelho circulatório
+603;I802;CID I802;Doenças do aparelho circulatório
+604;K713;CID K713;Doenças do aparelho digestivo
+605;T68;CID T68;Lesões e causas externas
+606;C227;CID C227;Neoplasias
+607;R10;CID R10;Sintomas e sinais anormais
+608;I842;CID I842;Doenças do aparelho circulatório
+609;M518;CID M518;Doenças do sistema osteomuscular
+610;J039;CID J039;Doenças do aparelho respiratório
+611;Q249;CID Q249;Malformações congênitas
+612;M068;CID M068;Doenças do sistema osteomuscular
+613;C506;CID C506;Neoplasias
+614;D482;CID D482;Neoplasias / Doenças do sangue
+615;N61;CID N61;Doenças do aparelho geniturinário
+616;M16;CID M16;Doenças do sistema osteomuscular
+617;S217;CID S217;Lesões e causas externas
+618;S36;CID S36;Lesões e causas externas
+619;M170;CID M170;Doenças do sistema osteomuscular
+620;N70;CID N70;Doenças do aparelho geniturinário
+621;C92;CID C92;Neoplasias
+622;I209;CID I209;Doenças do aparelho circulatório
+623;I49;CID I49;Doenças do aparelho circulatório
+624;G45;CID G45;Doenças do sistema nervoso
+625;A41;CID A41;Doenças infecciosas e parasitárias
+626;S827;CID S827;Lesões e causas externas
+627;G700;CID G700;Doenças do sistema nervoso
+628;C343;CID C343;Neoplasias
+629;S831;CID S831;Lesões e causas externas
+630;S625;CID S625;Lesões e causas externas
+631;I249;CID I249;Doenças do aparelho circulatório
+632;K610;CID K610;Doenças do aparelho digestivo
+633;K439;CID K439;Doenças do aparelho digestivo
+634;N119;CID N119;Doenças do aparelho geniturinário
+635;C229;CID C229;Neoplasias
+636;D509;CID D509;Neoplasias / Doenças do sangue
+637;K742;CID K742;Doenças do aparelho digestivo
+638;K561;CID K561;Doenças do aparelho digestivo
+639;E86;CID E86;Doenças endócrinas e metabólicas
+640;G412;CID G412;Doenças do sistema nervoso
+641;O030;CID O030;Gravidez, parto e puerpério
+642;O681;CID O681;Gravidez, parto e puerpério
+643;O343;CID O343;Gravidez, parto e puerpério
+644;B348;CID B348;Doenças infecciosas e parasitárias
+645;B004;CID B004;Doenças infecciosas e parasitárias
+646;C73;CID C73;Neoplasias
+647;F192;CID F192;Transtornos mentais e comportamentais
+648;S619;CID S619;Lesões e causas externas
+649;F316;CID F316;Transtornos mentais e comportamentais
+650;F209;CID F209;Transtornos mentais e comportamentais
+651;E872;CID E872;Doenças endócrinas e metabólicas
+652;I618;CID I618;Doenças do aparelho circulatório
+653;S670;CID S670;Lesões e causas externas
+654;L508;CID L508;Doenças da pele
+655;E43;CID E43;Doenças endócrinas e metabólicas
+656;N999;CID N999;Doenças do aparelho geniturinário
+657;T911;CID T911;Lesões e causas externas
+658;S524;CID S524;Lesões e causas externas
+659;P582;CID P582;Afecções perinatais
+660;I248;CID I248;Doenças do aparelho circulatório
+661;K315;CID K315;Doenças do aparelho digestivo
+662;K402;CID K402;Doenças do aparelho digestivo
+663;I250;CID I250;Doenças do aparelho circulatório
+664;P371;CID P371;Afecções perinatais
+665;K388;CID K388;Doenças do aparelho digestivo
+666;S360;CID S360;Lesões e causas externas
+667;S666;CID S666;Lesões e causas externas
+668;S860;CID S860;Lesões e causas externas
+669;S931;CID S931;Lesões e causas externas
+670;C49;CID C49;Neoplasias
+671;M169;CID M169;Doenças do sistema osteomuscular
+672;I629;CID I629;Doenças do aparelho circulatório
+673;I259;CID I259;Doenças do aparelho circulatório
+674;Q638;CID Q638;Malformações congênitas
+675;G809;CID G809;Doenças do sistema nervoso
+676;D165;CID D165;Neoplasias / Doenças do sangue
+677;Z429;CID Z429;Fatores que influenciam o estado de saúde
+678;L905;CID L905;Doenças da pele
+679;I420;CID I420;Doenças do aparelho circulatório
+680;R521;CID R521;Sintomas e sinais anormais
+681;D648;CID D648;Neoplasias / Doenças do sangue
+682;I610;CID I610;Doenças do aparelho circulatório
+683;N23;CID N23;Doenças do aparelho geniturinário
+684;C921;CID C921;Neoplasias
+685;C929;CID C929;Neoplasias
+686;I269;CID I269;Doenças do aparelho circulatório
+687;C169;CID C169;Neoplasias
+688;A198;CID A198;Doenças infecciosas e parasitárias
+689;C250;CID C250;Neoplasias
+690;C900;CID C900;Neoplasias
+691;C880;CID C880;Neoplasias
+692;K904;CID K904;Doenças do aparelho digestivo
+693;A488;CID A488;Doenças infecciosas e parasitárias
+694;N300;CID N300;Doenças do aparelho geniturinário
+695;O820;CID O820;Gravidez, parto e puerpério
+696;O040;CID O040;Gravidez, parto e puerpério
+697;J030;CID J030;Doenças do aparelho respiratório
+698;K251;CID K251;Doenças do aparelho digestivo
+699;D25;CID D25;Neoplasias / Doenças do sangue
+700;Z433;CID Z433;Fatores que influenciam o estado de saúde
+701;S52;CID S52;Lesões e causas externas
+702;M544;CID M544;Doenças do sistema osteomuscular
+703;S005;CID S005;Lesões e causas externas
+704;Q758;CID Q758;Malformações congênitas
+705;S02;CID S02;Lesões e causas externas
+706;T243;CID T243;Lesões e causas externas
+707;T141;CID T141;Lesões e causas externas
+708;T222;CID T222;Lesões e causas externas
+709;D16;CID D16;Neoplasias / Doenças do sangue
+710;I690;CID I690;Doenças do aparelho circulatório
+711;I348;CID I348;Doenças do aparelho circulatório
+712;C02;CID C02;Neoplasias
+713;K55;CID K55;Doenças do aparelho digestivo
+714;K921;CID K921;Doenças do aparelho digestivo
+715;O410;CID O410;Gravidez, parto e puerpério
+716;O440;CID O440;Gravidez, parto e puerpério
+717;E105;CID E105;Doenças endócrinas e metabólicas
+718;O14;CID O14;Gravidez, parto e puerpério
+719;O369;CID O369;Gravidez, parto e puerpério
+720;O68;CID O68;Gravidez, parto e puerpério
+721;O140;CID O140;Gravidez, parto e puerpério
+722;S062;CID S062;Lesões e causas externas
+723;J931;CID J931;Doenças do aparelho respiratório
+724;L02;CID L02;Doenças da pele
+725;T172;CID T172;Lesões e causas externas
+726;N719;CID N719;Doenças do aparelho geniturinário
+727;K851;CID K851;Doenças do aparelho digestivo
+728;F332;CID F332;Transtornos mentais e comportamentais
+729;O159;CID O159;Gravidez, parto e puerpério
+730;J938;CID J938;Doenças do aparelho respiratório
+731;K746;CID K746;Doenças do aparelho digestivo
+732;J219;CID J219;Doenças do aparelho respiratório
+733;Z762;CID Z762;Fatores que influenciam o estado de saúde
+734;G450;CID G450;Doenças do sistema nervoso
+735;N510;CID N510;Doenças do aparelho geniturinário
+736;K529;CID K529;Doenças do aparelho digestivo
+737;J209;CID J209;Doenças do aparelho respiratório
+738;B268;CID B268;Doenças infecciosas e parasitárias
+739;T659;CID T659;Lesões e causas externas
+740;O900;CID O900;Gravidez, parto e puerpério
+741;N814;CID N814;Doenças do aparelho geniturinário
+742;O688;CID O688;Gravidez, parto e puerpério
+743;O664;CID O664;Gravidez, parto e puerpério
+744;O610;CID O610;Gravidez, parto e puerpério
+745;O210;CID O210;Gravidez, parto e puerpério
+746;S927;CID S927;Lesões e causas externas
+747;S924;CID S924;Lesões e causas externas
+748;N211;CID N211;Doenças do aparelho geniturinário
+749;I615;CID I615;Doenças do aparelho circulatório
+750;L89;CID L89;Doenças da pele
+751;K623;CID K623;Doenças do aparelho digestivo
+752;R100;CID R100;Sintomas e sinais anormais
+753;S272;CID S272;Lesões e causas externas
+754;I620;CID I620;Doenças do aparelho circulatório
+755;N210;CID N210;Doenças do aparelho geniturinário
+756;D400;CID D400;Neoplasias / Doenças do sangue
+757;S933;CID S933;Lesões e causas externas
+758;O365;CID O365;Gravidez, parto e puerpério
+759;O981;CID O981;Gravidez, parto e puerpério
+760;O102;CID O102;Gravidez, parto e puerpério
+761;S617;CID S617;Lesões e causas externas
+762;L030;CID L030;Doenças da pele
+763;H189;CID H189;Doenças dos olhos / ouvidos
+764;S063;CID S063;Lesões e causas externas
+765;G918;CID G918;Doenças do sistema nervoso
+766;C401;CID C401;Neoplasias
+767;C20;CID C20;Neoplasias
+768;Q180;CID Q180;Malformações congênitas
+769;M217;CID M217;Doenças do sistema osteomuscular
+770;C501;CID C501;Neoplasias
+771;M234;CID M234;Doenças do sistema osteomuscular
+772;H188;CID H188;Doenças dos olhos / ouvidos
+773;S059;CID S059;Lesões e causas externas
+774;C409;CID C409;Neoplasias
+775;K914;CID K914;Doenças do aparelho digestivo
+776;A300;CID A300;Doenças infecciosas e parasitárias
+777;S361;CID S361;Lesões e causas externas
+778;C399;CID C399;Neoplasias
+779;B550;CID B550;Doenças infecciosas e parasitárias
+780;A448;CID A448;Doenças infecciosas e parasitárias
+781;I711;CID I711;Doenças do aparelho circulatório
+782;A418;CID A418;Doenças infecciosas e parasitárias
+783;E106;CID E106;Doenças endócrinas e metabólicas
+784;N219;CID N219;Doenças do aparelho geniturinário
+785;C188;CID C188;Neoplasias
+786;G407;CID G407;Doenças do sistema nervoso
+787;O709;CID O709;Gravidez, parto e puerpério
+788;I440;CID I440;Doenças do aparelho circulatório
+789;C186;CID C186;Neoplasias
+790;C10;CID C10;Neoplasias
+791;N20;CID N20;Doenças do aparelho geniturinário
+792;S750;CID S750;Lesões e causas externas
+793;T16;CID T16;Lesões e causas externas
+794;N288;CID N288;Doenças do aparelho geniturinário
+795;C172;CID C172;Neoplasias
+796;S131;CID S131;Lesões e causas externas
+797;C90;CID C90;Neoplasias
+798;S299;CID S299;Lesões e causas externas
+799;K850;CID K850;Doenças do aparelho digestivo
+800;N45;CID N45;Doenças do aparelho geniturinário
+801;M546;CID M546;Doenças do sistema osteomuscular
+802;C58;CID C58;Neoplasias
+803;S320;CID S320;Lesões e causas externas
+804;I212;CID I212;Doenças do aparelho circulatório
+805;T292;CID T292;Lesões e causas externas
+806;F31;CID F31;Transtornos mentais e comportamentais
+807;F20;CID F20;Transtornos mentais e comportamentais
+808;O420;CID O420;Gravidez, parto e puerpério
+809;E116;CID E116;Doenças endócrinas e metabólicas
+810;S889;CID S889;Lesões e causas externas
+811;S025;CID S025;Lesões e causas externas
+812;D599;CID D599;Neoplasias / Doenças do sangue
+813;R030;CID R030;Sintomas e sinais anormais
+814;F229;CID F229;Transtornos mentais e comportamentais
+815;T010;CID T010;Lesões e causas externas
+816;L910;CID L910;Doenças da pele
+817;H445;CID H445;Doenças dos olhos / ouvidos
+818;Z93;CID Z93;Fatores que influenciam o estado de saúde
+819;S620;CID S620;Lesões e causas externas
+820;Z470;CID Z470;Fatores que influenciam o estado de saúde
+821;S921;CID S921;Lesões e causas externas
+822;O054;CID O054;Gravidez, parto e puerpério
+823;O16;CID O16;Gravidez, parto e puerpério
+824;B227;CID B227;Doenças infecciosas e parasitárias
+825;A153;CID A153;Doenças infecciosas e parasitárias
+826;A009;CID A009;Doenças infecciosas e parasitárias
+827;E135;CID E135;Doenças endócrinas e metabólicas
+828;K410;CID K410;Doenças do aparelho digestivo
+829;M869;CID M869;Doenças do sistema osteomuscular
+830;C480;CID C480;Neoplasias
+831;P298;CID P298;Afecções perinatais
+832;O329;CID O329;Gravidez, parto e puerpério
+833;N74;CID N74;Doenças do aparelho geniturinário
+834;R85;CID R85;Sintomas e sinais anormais
+835;L021;CID L021;Doenças da pele
+836;C01;CID C01;Neoplasias
+837;T018;CID T018;Lesões e causas externas
+838;S718;CID S718;Lesões e causas externas
+839;T824;CID T824;Lesões e causas externas
+840;H40;CID H40;Doenças dos olhos / ouvidos
+841;L998;CID L998;Doenças da pele
+842;N49;CID N49;Doenças do aparelho geniturinário
+843;A398;CID A398;Doenças infecciosas e parasitárias
+844;S869;CID S869;Lesões e causas externas
+845;K518;CID K518;Doenças do aparelho digestivo
+846;H651;CID H651;Doenças dos olhos / ouvidos
+847;O868;CID O868;Gravidez, parto e puerpério
+848;O208;CID O208;Gravidez, parto e puerpério
+849;E669;CID E669;Doenças endócrinas e metabólicas
+850;N812;CID N812;Doenças do aparelho geniturinário
+851;K833;CID K833;Doenças do aparelho digestivo
+852;I70;CID I70;Doenças do aparelho circulatório
+853;S728;CID S728;Lesões e causas externas
+854;N13;CID N13;Doenças do aparelho geniturinário
+855;T303;CID T303;Lesões e causas externas
+856;C715;CID C715;Neoplasias
+857;C82;CID C82;Neoplasias
+858;K639;CID K639;Doenças do aparelho digestivo
+859;N18;CID N18;Doenças do aparelho geniturinário
+860;K052;CID K052;Doenças do aparelho digestivo
+861;I63;CID I63;Doenças do aparelho circulatório
+862;M321;CID M321;Doenças do sistema osteomuscular
+863;F321;CID F321;Transtornos mentais e comportamentais
+864;F19;CID F19;Transtornos mentais e comportamentais
+865;F310;CID F310;Transtornos mentais e comportamentais
+866;N739;CID N739;Doenças do aparelho geniturinário
+867;E107;CID E107;Doenças endócrinas e metabólicas
+868;J150;CID J150;Doenças do aparelho respiratório
+869;I470;CID I470;Doenças do aparelho circulatório
+870;A168;CID A168;Doenças infecciosas e parasitárias
+871;A309;CID A309;Doenças infecciosas e parasitárias
+872;B161;CID B161;Doenças infecciosas e parasitárias
+873;I700;CID I700;Doenças do aparelho circulatório
+874;M431;CID M431;Doenças do sistema osteomuscular
+875;C19;CID C19;Neoplasias
+876;I671;CID I671;Doenças do aparelho circulatório
+877;I710;CID I710;Doenças do aparelho circulatório
+878;C160;CID C160;Neoplasias
+879;N44;CID N44;Doenças do aparelho geniturinário
+880;I731;CID I731;Doenças do aparelho circulatório
+881;I443;CID I443;Doenças do aparelho circulatório
+882;T950;CID T950;Lesões e causas externas
+883;Q370;CID Q370;Malformações congênitas
+884;Z528;CID Z528;Fatores que influenciam o estado de saúde
+885;C785;CID C785;Neoplasias
+886;I229;CID I229;Doenças do aparelho circulatório
+887;G458;CID G458;Doenças do sistema nervoso
+888;A318;CID A318;Doenças infecciosas e parasitárias
+889;I460;CID I460;Doenças do aparelho circulatório
+890;A179;CID A179;Doenças infecciosas e parasitárias
+891;E237;CID E237;Doenças endócrinas e metabólicas
+892;K440;CID K440;Doenças do aparelho digestivo
+893;H603;CID H603;Doenças dos olhos / ouvidos
+894;R208;CID R208;Sintomas e sinais anormais
+895;O690;CID O690;Gravidez, parto e puerpério
+896;A048;CID A048;Doenças infecciosas e parasitárias
+897;T845;CID T845;Lesões e causas externas
+898;O912;CID O912;Gravidez, parto e puerpério
+899;N492;CID N492;Doenças do aparelho geniturinário
+900;G910;CID G910;Doenças do sistema nervoso
+901;S278;CID S278;Lesões e causas externas
+902;I469;CID I469;Doenças do aparelho circulatório
+903;C32;CID C32;Neoplasias
+904;C22;CID C22;Neoplasias
+905;K70;CID K70;Doenças do aparelho digestivo
+906;I158;CID I158;Doenças do aparelho circulatório
+907;T542;CID T542;Lesões e causas externas
+908;A028;CID A028;Doenças infecciosas e parasitárias
+909;O057;CID O057;Gravidez, parto e puerpério
+910;S313;CID S313;Lesões e causas externas
+911;K389;CID K389;Doenças do aparelho digestivo
+912;O441;CID O441;Gravidez, parto e puerpério
+913;I702;CID I702;Doenças do aparelho circulatório
+914;S364;CID S364;Lesões e causas externas
+915;B589;CID B589;Doenças infecciosas e parasitárias
+916;C153;CID C153;Neoplasias
+917;K831;CID K831;Doenças do aparelho digestivo
+918;K460;CID K460;Doenças do aparelho digestivo
+919;T223;CID T223;Lesões e causas externas
+920;M510;CID M510;Doenças do sistema osteomuscular
+921;C251;CID C251;Neoplasias
+922;C600;CID C600;Neoplasias
+923;C020;CID C020;Neoplasias
+924;N432;CID N432;Doenças do aparelho geniturinário
+925;T930;CID T930;Lesões e causas externas
+926;S203;CID S203;Lesões e causas externas
+927;O864;CID O864;Gravidez, parto e puerpério
+928;O902;CID O902;Gravidez, parto e puerpério
+929;A490;CID A490;Doenças infecciosas e parasitárias
+930;P969;CID P969;Afecções perinatais
+931;B86;CID B86;Doenças infecciosas e parasitárias
+932;S311;CID S311;Lesões e causas externas
+933;S220;CID S220;Lesões e causas externas
+934;C151;CID C151;Neoplasias
+935;K404;CID K404;Doenças do aparelho digestivo
+936;Q531;CID Q531;Malformações congênitas
+937;P211;CID P211;Afecções perinatais
+938;N481;CID N481;Doenças do aparelho geniturinário
+939;I220;CID I220;Doenças do aparelho circulatório
+940;I342;CID I342;Doenças do aparelho circulatório
+941;C540;CID C540;Neoplasias
+942;Q548;CID Q548;Malformações congênitas
+943;O359;CID O359;Gravidez, parto e puerpério
+944;P081;CID P081;Afecções perinatais
+945;O901;CID O901;Gravidez, parto e puerpério
+946;J985;CID J985;Doenças do aparelho respiratório
+947;O230;CID O230;Gravidez, parto e puerpério
+948;O419;CID O419;Gravidez, parto e puerpério
+949;O731;CID O731;Gravidez, parto e puerpério
+950;Q899;CID Q899;Malformações congênitas
+951;T635;CID T635;Lesões e causas externas
+952;A159;CID A159;Doenças infecciosas e parasitárias
+953;K350;CID K350;Doenças do aparelho digestivo
+954;M925;CID M925;Doenças do sistema osteomuscular
+955;Q688;CID Q688;Malformações congênitas
+956;S680;CID S680;Lesões e causas externas
+957;H020;CID H020;Doenças dos olhos / ouvidos
+958;Q650;CID Q650;Malformações congênitas
+959;Q667;CID Q667;Malformações congênitas
+960;D390;CID D390;Neoplasias / Doenças do sangue
+961;L92;CID L92;Doenças da pele
+962;S324;CID S324;Lesões e causas externas
+963;S277;CID S277;Lesões e causas externas
+964;C23;CID C23;Neoplasias
+965;M841;CID M841;Doenças do sistema osteomuscular
+966;S080;CID S080;Lesões e causas externas
+967;I848;CID I848;Doenças do aparelho circulatório
+968;Q750;CID Q750;Malformações congênitas
+969;C154;CID C154;Neoplasias
+970;D472;CID D472;Neoplasias / Doenças do sangue
+971;G060;CID G060;Doenças do sistema nervoso
+972;N024;CID N024;Doenças do aparelho geniturinário
+973;E136;CID E136;Doenças endócrinas e metabólicas
+974;A498;CID A498;Doenças infecciosas e parasitárias
+975;C55;CID C55;Neoplasias
+976;N32;CID N32;Doenças do aparelho geniturinário
+977;J181;CID J181;Doenças do aparelho respiratório
+978;C839;CID C839;Neoplasias
+979;N841;CID N841;Doenças do aparelho geniturinário
+980;O331;CID O331;Gravidez, parto e puerpério
+981;N398;CID N398;Doenças do aparelho geniturinário
+982;Z32;CID Z32;Fatores que influenciam o estado de saúde
+983;N368;CID N368;Doenças do aparelho geniturinário
+984;S268;CID S268;Lesões e causas externas
+985;M86;CID M86;Doenças do sistema osteomuscular
+986;J955;CID J955;Doenças do aparelho respiratório
+987;I730;CID I730;Doenças do aparelho circulatório
+988;G40;CID G40;Doenças do sistema nervoso
+989;S22;CID S22;Lesões e causas externas
+990;C66;CID C66;Neoplasias
+991;K30;CID K30;Doenças do aparelho digestivo
+992;L024;CID L024;Doenças da pele
+993;E46;CID E46;Doenças endócrinas e metabólicas
+994;J989;CID J989;Doenças do aparelho respiratório
+995;K811;CID K811;Doenças do aparelho digestivo
+996;L010;CID L010;Doenças da pele
+997;P399;CID P399;Afecções perinatais
+998;S971;CID S971;Lesões e causas externas
+999;S867;CID S867;Lesões e causas externas
+1000;S521;CID S521;Lesões e causas externas
+1001;I861;CID I861;Doenças do aparelho circulatório
+1002;P53;CID P53;Afecções perinatais
+1003;P703;CID P703;Afecções perinatais
+1004;T821;CID T821;Lesões e causas externas
+1005;O421;CID O421;Gravidez, parto e puerpério
+1006;P285;CID P285;Afecções perinatais
+1007;Q793;CID Q793;Malformações congênitas
+1008;L088;CID L088;Doenças da pele
+1009;A150;CID A150;Doenças infecciosas e parasitárias
+1010;M511;CID M511;Doenças do sistema osteomuscular
+1011;N324;CID N324;Doenças do aparelho geniturinário
+1012;K047;CID K047;Doenças do aparelho digestivo
+1013;S663;CID S663;Lesões e causas externas
+1014;S978;CID S978;Lesões e causas externas
+1015;M502;CID M502;Doenças do sistema osteomuscular
+1016;M844;CID M844;Doenças do sistema osteomuscular
+1017;I840;CID I840;Doenças do aparelho circulatório
+1018;C670;CID C670;Neoplasias
+1019;C770;CID C770;Neoplasias
+1020;K431;CID K431;Doenças do aparelho digestivo
+1021;T874;CID T874;Lesões e causas externas
+1022;J959;CID J959;Doenças do aparelho respiratório
+1023;L908;CID L908;Doenças da pele
+1024;G418;CID G418;Doenças do sistema nervoso
+1025;E798;CID E798;Doenças endócrinas e metabólicas
+1026;S218;CID S218;Lesões e causas externas
+1027;C917;CID C917;Neoplasias
+1028;G628;CID G628;Doenças do sistema nervoso
+1029;I213;CID I213;Doenças do aparelho circulatório
+1030;C832;CID C832;Neoplasias
+1031;C712;CID C712;Neoplasias
+1032;L949;CID L949;Doenças da pele
+1033;T751;CID T751;Lesões e causas externas
+1034;D570;CID D570;Neoplasias / Doenças do sangue
+1035;E888;CID E888;Doenças endócrinas e metabólicas
+1036;N431;CID N431;Doenças do aparelho geniturinário
+1037;S789;CID S789;Lesões e causas externas
+1038;K42;CID K42;Doenças do aparelho digestivo
+1039;E115;CID E115;Doenças endócrinas e metabólicas
+1040;R522;CID R522;Sintomas e sinais anormais
+1041;J03;CID J03;Doenças do aparelho respiratório
+1042;G91;CID G91;Doenças do sistema nervoso
+1043;N133;CID N133;Doenças do aparelho geniturinário
+1044;J44;CID J44;Doenças do aparelho respiratório
+1045;K739;CID K739;Doenças do aparelho digestivo
+1046;T189;CID T189;Lesões e causas externas
+1047;T181;CID T181;Lesões e causas externas
+1048;D57;CID D57;Neoplasias / Doenças do sangue
+1049;I270;CID I270;Doenças do aparelho circulatório
+1050;I472;CID I472;Doenças do aparelho circulatório
+1051;K803;CID K803;Doenças do aparelho digestivo
+1052;J15;CID J15;Doenças do aparelho respiratório
+1053;S660;CID S660;Lesões e causas externas
+1054;S910;CID S910;Lesões e causas externas
+1055;K750;CID K750;Doenças do aparelho digestivo
+1056;O339;CID O339;Gravidez, parto e puerpério
+1057;O61;CID O61;Gravidez, parto e puerpério
+1058;O997;CID O997;Gravidez, parto e puerpério
+1059;Q213;CID Q213;Malformações congênitas
+1060;O618;CID O618;Gravidez, parto e puerpério
+1061;Q532;CID Q532;Malformações congênitas
+1062;T914;CID T914;Lesões e causas externas
+1063;O233;CID O233;Gravidez, parto e puerpério
+1064;I279;CID I279;Doenças do aparelho circulatório
+1065;A879;CID A879;Doenças infecciosas e parasitárias
+1066;N926;CID N926;Doenças do aparelho geniturinário
+1067;D164;CID D164;Neoplasias / Doenças do sangue
+1068;M842;CID M842;Doenças do sistema osteomuscular
+1069;I607;CID I607;Doenças do aparelho circulatório
+1070;E14;CID E14;Doenças endócrinas e metabólicas
+1071;N111;CID N111;Doenças do aparelho geniturinário
+1072;D50;CID D50;Neoplasias / Doenças do sangue
+1073;R190;CID R190;Sintomas e sinais anormais
+1074;T932;CID T932;Lesões e causas externas
+1075;C030;CID C030;Neoplasias
+1076;N218;CID N218;Doenças do aparelho geniturinário
+1077;C159;CID C159;Neoplasias
+1078;D252;CID D252;Neoplasias / Doenças do sangue
+1079;K745;CID K745;Doenças do aparelho digestivo
+1080;N340;CID N340;Doenças do aparelho geniturinário
+1081;O325;CID O325;Gravidez, parto e puerpério
+1082;O033;CID O033;Gravidez, parto e puerpério
+1083;O150;CID O150;Gravidez, parto e puerpério
+1084;F10;CID F10;Transtornos mentais e comportamentais
+1085;F33;CID F33;Transtornos mentais e comportamentais
+1086;N17;CID N17;Doenças do aparelho geniturinário
+1087;D330;CID D330;Neoplasias / Doenças do sangue
+1088;I208;CID I208;Doenças do aparelho circulatório
+1089;I738;CID I738;Doenças do aparelho circulatório
+1090;I878;CID I878;Doenças do aparelho circulatório
+1091;S110;CID S110;Lesões e causas externas
+1092;S922;CID S922;Lesões e causas externas
+1093;Q668;CID Q668;Malformações congênitas
+1094;N800;CID N800;Doenças do aparelho geniturinário
+1095;M259;CID M259;Doenças do sistema osteomuscular
+1096;S634;CID S634;Lesões e causas externas
+1097;D392;CID D392;Neoplasias / Doenças do sangue
+1098;S529;CID S529;Lesões e causas externas
+1099;K430;CID K430;Doenças do aparelho digestivo
+1100;R579;CID R579;Sintomas e sinais anormais
+1101;L039;CID L039;Doenças da pele
+1102;I880;CID I880;Doenças do aparelho circulatório
+1103;H659;CID H659;Doenças dos olhos / ouvidos
+1104;B575;CID B575;Doenças infecciosas e parasitárias
+1105;O722;CID O722;Gravidez, parto e puerpério
+1106;N735;CID N735;Doenças do aparelho geniturinário
+1107;R13;CID R13;Sintomas e sinais anormais
+1108;D180;CID D180;Neoplasias / Doenças do sangue
+1109;D401;CID D401;Neoplasias / Doenças do sangue
+1110;I351;CID I351;Doenças do aparelho circulatório
+1111;M200;CID M200;Doenças do sistema osteomuscular
+1112;G801;CID G801;Doenças do sistema nervoso
+1113;T07;CID T07;Lesões e causas externas
+1114;T797;CID T797;Lesões e causas externas
+1115;S312;CID S312;Lesões e causas externas
+1116;O225;CID O225;Gravidez, parto e puerpério
+1117;P701;CID P701;Afecções perinatais
+1118;O240;CID O240;Gravidez, parto e puerpério
+1119;O458;CID O458;Gravidez, parto e puerpério
+1120;N738;CID N738;Doenças do aparelho geniturinário
+1121;J852;CID J852;Doenças do aparelho respiratório
+1122;T293;CID T293;Lesões e causas externas
+1123;Q211;CID Q211;Malformações congênitas
+1124;I712;CID I712;Doenças do aparelho circulatório
+1125;C25;CID C25;Neoplasias
+1126;M84;CID M84;Doenças do sistema osteomuscular
+1127;I499;CID I499;Doenças do aparelho circulatório
+1128;A152;CID A152;Doenças infecciosas e parasitárias
+1129;A308;CID A308;Doenças infecciosas e parasitárias
+1130;K650;CID K650;Doenças do aparelho digestivo
+1131;J942;CID J942;Doenças do aparelho respiratório
+1132;S081;CID S081;Lesões e causas externas
+1133;I616;CID I616;Doenças do aparelho circulatório
+1134;I609;CID I609;Doenças do aparelho circulatório
+1135;S127;CID S127;Lesões e causas externas
+1136;K046;CID K046;Doenças do aparelho digestivo
+1137;R568;CID R568;Sintomas e sinais anormais
+1138;C716;CID C716;Neoplasias
+1139;K744;CID K744;Doenças do aparelho digestivo
+1140;A491;CID A491;Doenças infecciosas e parasitárias
+1141;D571;CID D571;Neoplasias / Doenças do sangue
+1142;A410;CID A410;Doenças infecciosas e parasitárias
+1143;G958;CID G958;Doenças do sistema nervoso
+1144;A803;CID A803;Doenças infecciosas e parasitárias
+1145;T116;CID T116;Lesões e causas externas
+1146;M258;CID M258;Doenças do sistema osteomuscular
+1147;T925;CID T925;Lesões e causas externas
+1148;T212;CID T212;Lesões e causas externas
+1149;K678;CID K678;Doenças do aparelho digestivo
+1150;G20;CID G20;Doenças do sistema nervoso
+1151;S202;CID S202;Lesões e causas externas
+1152;T180;CID T180;Lesões e causas externas
+1153;C249;CID C249;Neoplasias
+1154;D598;CID D598;Neoplasias / Doenças do sangue
+1155;N139;CID N139;Doenças do aparelho geniturinário
+1156;E871;CID E871;Doenças endócrinas e metabólicas
+1157;L028;CID L028;Doenças da pele
+1158;S633;CID S633;Lesões e causas externas
+1159;S682;CID S682;Lesões e causas externas
+1160;T024;CID T024;Lesões e causas externas
+1161;F208;CID F208;Transtornos mentais e comportamentais
+1162;L94;CID L94;Doenças da pele
+1163;B02;CID B02;Doenças infecciosas e parasitárias
+1164;A010;CID A010;Doenças infecciosas e parasitárias
+1165;A16;CID A16;Doenças infecciosas e parasitárias
+1166;I459;CID I459;Doenças do aparelho circulatório
+1167;S270;CID S270;Lesões e causas externas
+1168;N819;CID N819;Doenças do aparelho geniturinário
+1169;G408;CID G408;Doenças do sistema nervoso
+1170;A87;CID A87;Doenças infecciosas e parasitárias
+1171;D320;CID D320;Neoplasias / Doenças do sangue
+1172;G708;CID G708;Doenças do sistema nervoso
+1173;K910;CID K910;Doenças do aparelho digestivo
+1174;O039;CID O039;Gravidez, parto e puerpério
+1175;O053;CID O053;Gravidez, parto e puerpério
+1176;N709;CID N709;Doenças do aparelho geniturinário
+1177;O471;CID O471;Gravidez, parto e puerpério
+1178;O348;CID O348;Gravidez, parto e puerpério
+1179;K351;CID K351;Doenças do aparelho digestivo
+1180;M109;CID M109;Doenças do sistema osteomuscular
+1181;S221;CID S221;Lesões e causas externas
+1182;S810;CID S810;Lesões e causas externas
+1183;I603;CID I603;Doenças do aparelho circulatório
+1184;D352;CID D352;Neoplasias / Doenças do sangue
+1185;C163;CID C163;Neoplasias
+1186;I601;CID I601;Doenças do aparelho circulatório
+1187;Q400;CID Q400;Malformações congênitas
+1188;T922;CID T922;Lesões e causas externas
+1189;M54;CID M54;Doenças do sistema osteomuscular
+1190;C924;CID C924;Neoplasias
+1191;J069;CID J069;Doenças do aparelho respiratório
+1192;K709;CID K709;Doenças do aparelho digestivo
+1193;T811;CID T811;Lesões e causas externas
+1194;F062;CID F062;Transtornos mentais e comportamentais
+1195;F71;CID F71;Transtornos mentais e comportamentais
+1196;F349;CID F349;Transtornos mentais e comportamentais
+1197;O11;CID O11;Gravidez, parto e puerpério
+1198;J439;CID J439;Doenças do aparelho respiratório
+1199;T875;CID T875;Lesões e causas externas
+1200;G500;CID G500;Doenças do sistema nervoso
+1201;M966;CID M966;Doenças do sistema osteomuscular
+1202;I84;CID I84;Doenças do aparelho circulatório
+1203;C11;CID C11;Neoplasias
+1204;S92;CID S92;Lesões e causas externas
+1205;L022;CID L022;Doenças da pele
+1206;K41;CID K41;Doenças do aparelho digestivo
+1207;K63;CID K63;Doenças do aparelho digestivo
+1208;L05;CID L05;Doenças da pele
+1209;S031;CID S031;Lesões e causas externas
+1210;D618;CID D618;Neoplasias / Doenças do sangue
+1211;T849;CID T849;Lesões e causas externas
+1212;J458;CID J458;Doenças do aparelho respiratório
+1213;Q669;CID Q669;Malformações congênitas
+1214;M813;CID M813;Doenças do sistema osteomuscular
+1215;C969;CID C969;Neoplasias
+1216;S357;CID S357;Lesões e causas externas
+1217;C920;CID C920;Neoplasias
+1218;D613;CID D613;Neoplasias / Doenças do sangue
+1219;I608;CID I608;Doenças do aparelho circulatório
+1220;C492;CID C492;Neoplasias
+1221;H46;CID H46;Doenças dos olhos / ouvidos
+1222;C403;CID C403;Neoplasias
+1223;F195;CID F195;Transtornos mentais e comportamentais
+1224;F333;CID F333;Transtornos mentais e comportamentais
+1225;B559;CID B559;Doenças infecciosas e parasitárias
+1226;J386;CID J386;Doenças do aparelho respiratório
+1227;I719;CID I719;Doenças do aparelho circulatório
+1228;I694;CID I694;Doenças do aparelho circulatório
+1229;S42;CID S42;Lesões e causas externas
+1230;S204;CID S204;Lesões e causas externas
+1231;R221;CID R221;Sintomas e sinais anormais
+1232;C162;CID C162;Neoplasias
+1233;N925;CID N925;Doenças do aparelho geniturinário
+1234;N949;CID N949;Doenças do aparelho geniturinário
+1235;M543;CID M543;Doenças do sistema osteomuscular
+1236;S824;CID S824;Lesões e causas externas
+1237;Q057;CID Q057;Malformações congênitas
+1238;K660;CID K660;Doenças do aparelho digestivo
+1239;D802;CID D802;Neoplasias / Doenças do sangue
+1240;M878;CID M878;Doenças do sistema osteomuscular
+1241;K291;CID K291;Doenças do aparelho digestivo
+1242;C780;CID C780;Neoplasias
+1243;G638;CID G638;Doenças do sistema nervoso
+1244;P261;CID P261;Afecções perinatais
+1245;B440;CID B440;Doenças infecciosas e parasitárias
+1246;J391;CID J391;Doenças do aparelho respiratório
+1247;O363;CID O363;Gravidez, parto e puerpério
+1248;R509;CID R509;Sintomas e sinais anormais
+1249;L988;CID L988;Doenças da pele
+1250;N62;CID N62;Doenças do aparelho geniturinário
+1251;E740;CID E740;Doenças endócrinas e metabólicas
+1252;C541;CID C541;Neoplasias
+1253;O995;CID O995;Gravidez, parto e puerpério
+1254;O630;CID O630;Gravidez, parto e puerpério
+1255;N850;CID N850;Doenças do aparelho geniturinário
+1256;D251;CID D251;Neoplasias / Doenças do sangue
+1257;H547;CID H547;Doenças dos olhos / ouvidos
+1258;J948;CID J948;Doenças do aparelho respiratório
+1259;I614;CID I614;Doenças do aparelho circulatório
+1260;K461;CID K461;Doenças do aparelho digestivo
+1261;H449;CID H449;Doenças dos olhos / ouvidos
+1262;I252;CID I252;Doenças do aparelho circulatório
+1263;E11;CID E11;Doenças endócrinas e metabólicas
+1264;F100;CID F100;Transtornos mentais e comportamentais
+1265;A408;CID A408;Doenças infecciosas e parasitárias
+1266;A279;CID A279;Doenças infecciosas e parasitárias
+1267;C819;CID C819;Neoplasias
+1268;F023;CID F023;Transtornos mentais e comportamentais
+1269;F115;CID F115;Transtornos mentais e comportamentais
+1270;F206;CID F206;Transtornos mentais e comportamentais
+1271;F203;CID F203;Transtornos mentais e comportamentais
+1272;F329;CID F329;Transtornos mentais e comportamentais
+1273;T039;CID T039;Lesões e causas externas
+1274;E117;CID E117;Doenças endócrinas e metabólicas
+1275;S318;CID S318;Lesões e causas externas
+1276;K292;CID K292;Doenças do aparelho digestivo
+1277;K31;CID K31;Doenças do aparelho digestivo
+1278;S449;CID S449;Lesões e causas externas
+1279;I718;CID I718;Doenças do aparelho circulatório
+1280;I830;CID I830;Doenças do aparelho circulatório
+1281;E52;CID E52;Doenças endócrinas e metabólicas
+1282;T793;CID T793;Lesões e causas externas
+1283;N809;CID N809;Doenças do aparelho geniturinário
+1284;D630;CID D630;Neoplasias / Doenças do sangue
+1285;K299;CID K299;Doenças do aparelho digestivo
+1286;I493;CID I493;Doenças do aparelho circulatório
+1287;F30;CID F30;Transtornos mentais e comportamentais
+1288;N499;CID N499;Doenças do aparelho geniturinário
+1289;K830;CID K830;Doenças do aparelho digestivo
+1290;C438;CID C438;Neoplasias
+1291;E039;CID E039;Doenças endócrinas e metabólicas
+1292;E041;CID E041;Doenças endócrinas e metabólicas
+1293;I635;CID I635;Doenças do aparelho circulatório
+1294;L904;CID L904;Doenças da pele
+1295;T888;CID T888;Lesões e causas externas
+1296;C810;CID C810;Neoplasias
+1297;D374;CID D374;Neoplasias / Doenças do sangue
+1298;N898;CID N898;Doenças do aparelho geniturinário
+1299;S761;CID S761;Lesões e causas externas
+1300;S40;CID S40;Lesões e causas externas
+1301;K630;CID K630;Doenças do aparelho digestivo
+1302;Z748;CID Z748;Fatores que influenciam o estado de saúde
+1303;T30;CID T30;Lesões e causas externas
+1304;I20;CID I20;Doenças do aparelho circulatório
+1305;L08;CID L08;Doenças da pele
+1306;J64;CID J64;Doenças do aparelho respiratório
+1307;K62;CID K62;Doenças do aparelho digestivo
+1308;S122;CID S122;Lesões e causas externas
+1309;T810;CID T810;Lesões e causas externas
+1310;H181;CID H181;Doenças dos olhos / ouvidos
+1311;N360;CID N360;Doenças do aparelho geniturinário
+1312;K603;CID K603;Doenças do aparelho digestivo
+1313;F32;CID F32;Transtornos mentais e comportamentais
+1314;F109;CID F109;Transtornos mentais e comportamentais
+1315;R060;CID R060;Sintomas e sinais anormais
+1316;F700;CID F700;Transtornos mentais e comportamentais
+1317;A630;CID A630;Doenças infecciosas e parasitárias
+1318;R001;CID R001;Sintomas e sinais anormais
+1319;T012;CID T012;Lesões e causas externas
+1320;J182;CID J182;Doenças do aparelho respiratório
+1321;E109;CID E109;Doenças endócrinas e metabólicas
+1322;G008;CID G008;Doenças do sistema nervoso
+1323;S315;CID S315;Lesões e causas externas
+1324;C491;CID C491;Neoplasias
+1325;O715;CID O715;Gravidez, parto e puerpério
+1326;O996;CID O996;Gravidez, parto e puerpério
+1327;O241;CID O241;Gravidez, parto e puerpério
+1328;O989;CID O989;Gravidez, parto e puerpério
+1329;B178;CID B178;Doenças infecciosas e parasitárias
+1330;K633;CID K633;Doenças do aparelho digestivo
+1331;P611;CID P611;Afecções perinatais
+1332;M069;CID M069;Doenças do sistema osteomuscular
+1333;T920;CID T920;Lesões e causas externas
+1334;C502;CID C502;Neoplasias
+1335;D528;CID D528;Neoplasias / Doenças do sangue
+1336;J040;CID J040;Doenças do aparelho respiratório
+1337;K704;CID K704;Doenças do aparelho digestivo
+1338;F315;CID F315;Transtornos mentais e comportamentais
+1339;N802;CID N802;Doenças do aparelho geniturinário
+1340;S981;CID S981;Lesões e causas externas
+1341;O862;CID O862;Gravidez, parto e puerpério
+1342;G634;CID G634;Doenças do sistema nervoso
+1343;O83;CID O83;Gravidez, parto e puerpério
+1344;R34;CID R34;Sintomas e sinais anormais
+1345;G621;CID G621;Doenças do sistema nervoso
+1346;L270;CID L270;Doenças da pele
+1347;B349;CID B349;Doenças infecciosas e parasitárias
+1348;B252;CID B252;Doenças infecciosas e parasitárias
+1349;B330;CID B330;Doenças infecciosas e parasitárias
+1350;T410;CID T410;Lesões e causas externas
+1351;H609;CID H609;Doenças dos olhos / ouvidos
+1352;J860;CID J860;Doenças do aparelho respiratório
+1353;G062;CID G062;Doenças do sistema nervoso
+1354;Q530;CID Q530;Malformações congênitas
+1355;Q790;CID Q790;Malformações congênitas
+1356;Q444;CID Q444;Malformações congênitas
+1357;J961;CID J961;Doenças do aparelho respiratório
+1358;J869;CID J869;Doenças do aparelho respiratório
+1359;L720;CID L720;Doenças da pele
+1360;Q250;CID Q250;Malformações congênitas
+1361;D693;CID D693;Neoplasias / Doenças do sangue
+1362;Q256;CID Q256;Malformações congênitas
+1363;Q251;CID Q251;Malformações congênitas
+1364;Q255;CID Q255;Malformações congênitas
+1365;T880;CID T880;Lesões e causas externas
+1366;Q699;CID Q699;Malformações congênitas
+1367;C919;CID C919;Neoplasias
+1368;Z931;CID Z931;Fatores que influenciam o estado de saúde
+1369;N052;CID N052;Doenças do aparelho geniturinário
+1370;L309;CID L309;Doenças da pele
+1371;K522;CID K522;Doenças do aparelho digestivo
+1372;L500;CID L500;Doenças da pele
+1373;I370;CID I370;Doenças do aparelho circulatório
+1374;P299;CID P299;Afecções perinatais
+1375;J042;CID J042;Doenças do aparelho respiratório
+1376;K210;CID K210;Doenças do aparelho digestivo
+1377;P614;CID P614;Afecções perinatais
+1378;E807;CID E807;Doenças endócrinas e metabólicas
+1379;N136;CID N136;Doenças do aparelho geniturinário
+1380;D619;CID D619;Neoplasias / Doenças do sangue
+1381;G710;CID G710;Doenças do sistema nervoso
+1382;J168;CID J168;Doenças do aparelho respiratório
+1383;D381;CID D381;Neoplasias / Doenças do sangue
+1384;L303;CID L303;Doenças da pele
+1385;L728;CID L728;Doenças da pele
+1386;L033;CID L033;Doenças da pele
+1387;K20;CID K20;Doenças do aparelho digestivo
+1388;I255;CID I255;Doenças do aparelho circulatório
+1389;O211;CID O211;Gravidez, parto e puerpério
+1390;N907;CID N907;Doenças do aparelho geniturinário
+1391;N838;CID N838;Doenças do aparelho geniturinário
+1392;T424;CID T424;Lesões e causas externas
+1393;E147;CID E147;Doenças endócrinas e metabólicas
+1394;M139;CID M139;Doenças do sistema osteomuscular
+1395;N736;CID N736;Doenças do aparelho geniturinário
+1396;D27;CID D27;Neoplasias / Doenças do sangue
+1397;N363;CID N363;Doenças do aparelho geniturinário
+1398;N81;CID N81;Doenças do aparelho geniturinário
+1399;N881;CID N881;Doenças do aparelho geniturinário
+1400;A310;CID A310;Doenças infecciosas e parasitárias
+1401;E738;CID E738;Doenças endócrinas e metabólicas
+1402;J45;CID J45;Doenças do aparelho respiratório
+1403;E114;CID E114;Doenças endócrinas e metabólicas
+1404;A04;CID A04;Doenças infecciosas e parasitárias
+1405;O829;CID O829;Gravidez, parto e puerpério
+1406;R398;CID R398;Sintomas e sinais anormais
+1407;C798;CID C798;Neoplasias
+1408;G432;CID G432;Doenças do sistema nervoso
+1409;K259;CID K259;Doenças do aparelho digestivo
+1410;G459;CID G459;Doenças do sistema nervoso
+1411;A049;CID A049;Doenças infecciosas e parasitárias
+1412;K508;CID K508;Doenças do aparelho digestivo
+1413;O600;CID O600;Gravidez, parto e puerpério
+1414;A91;CID A91;Doenças infecciosas e parasitárias
+1415;L308;CID L308;Doenças da pele
+1416;C718;CID C718;Neoplasias
+1417;A044;CID A044;Doenças infecciosas e parasitárias
+1418;E139;CID E139;Doenças endócrinas e metabólicas
+1419;M242;CID M242;Doenças do sistema osteomuscular
+1420;F119;CID F119;Transtornos mentais e comportamentais
+1421;C790;CID C790;Neoplasias
+1422;K738;CID K738;Doenças do aparelho digestivo
