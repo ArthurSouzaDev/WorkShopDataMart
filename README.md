@@ -57,7 +57,7 @@ O pipeline de dados foi modularizado. Execute os scripts na seguinte ordem para 
 
 ---
 
-## 📊 Perguntas de Negócio e Queries SQL
+## Perguntas de Negócio e Queries SQL
 
 Abaixo estão 5 perguntas de negócio fundamentais e as *queries* SQL utilizadas para extrair os *insights* do nosso Data Mart:
 
@@ -113,7 +113,7 @@ ORDER BY t.mes;
 
 ---
 
-## 📈 Dashboard e Visualizações
+## Dashboard e Visualizações
 Para o consumo analítico e visualização interativa dos dados, utilizamos o **Power BI**. O *dashboard* consome as tabelas do nosso banco dimensional e responde às perguntas de negócio através das seguintes visualizações:
 
 
