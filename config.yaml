@@ -1,0 +1,20 @@
+extracao:
+  estados:
+    - TO
+  anos:
+    - 2023
+  meses:
+    - 1
+
+caminhos:
+  raw: "data/raw/sih_{estado}_{ano}_{mes:02d}.parquet"
+  municipios: "code/municipios.csv"
+  db: "data/processed/sih_datasus.db"
+  dump_sql: "data/processed/sih_datasus.sql"
+  csv_bruto: "code/dados_extraidos.csv"
+  csv_limpo: "code/saude_bi_final.csv"
+  csv_dimensional: "data/csv"
+
+log:
+  nivel: "INFO"
+  arquivo: "logs/pipeline.log"
