@@ -14,6 +14,7 @@ caminhos:
   csv_bruto: "code/dados_extraidos.csv"
   csv_limpo: "code/saude_bi_final.csv"
   csv_dimensional: "data/csv"
+  relatorio_qualidade: "data/relatorio_qualidade.csv"
 
 log:
   nivel: "INFO"

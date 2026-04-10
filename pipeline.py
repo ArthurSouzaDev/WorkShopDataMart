@@ -6,8 +6,9 @@ Uso:
     python pipeline.py                          # roda todas as etapas com config padrão
     python pipeline.py --estado PA --ano 2024   # parametriza via CLI
     python pipeline.py --etapa transformar      # roda só uma etapa específica
+    python pipeline.py --etapa validar          # re-valida banco existente sem reprocessar
 
-Etapas disponíveis: extrair | converter | limpar | transformar | all
+Etapas disponíveis: extrair | converter | limpar | transformar | validar | all
 """
 import argparse
 import logging
@@ -79,7 +80,7 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--etapa",
-        choices=["all", "extrair", "converter", "limpar", "transformar"],
+        choices=["all", "extrair", "converter", "limpar", "transformar", "validar"],
         default="all",
         help="Etapa a executar (padrão: all).",
     )
@@ -135,20 +136,41 @@ def etapa_transformar(config: dict, logger: logging.Logger) -> None:
         dump_path=config["caminhos"]["dump_sql"],
         municipios_csv=config["caminhos"]["municipios"],
         csv_pasta=config["caminhos"]["csv_dimensional"],
+        relatorio_qualidade=config["caminhos"].get("relatorio_qualidade", "data/relatorio_qualidade.csv"),
     )
+
+
+def etapa_validar(config: dict, logger: logging.Logger) -> None:
+    """Re-valida o banco dimensional existente sem reprocessar os dados."""
+    import sqlite3
+    from code.validar import validate_dimensional, salvar_relatorio, ValidationReport
+
+    db_path = config["caminhos"]["db"]
+    relatorio = config["caminhos"].get("relatorio_qualidade", "data/relatorio_qualidade.csv")
+
+    logger.info("Re-validando banco dimensional: %s", db_path)
+    with sqlite3.connect(db_path) as conn:
+        report_dim = validate_dimensional(conn)
+
+    salvar_relatorio(ValidationReport(), report_dim, relatorio)
+    logger.info("Relatório salvo em: %s", relatorio)
+
+    if report_dim.tem_erros:
+        raise RuntimeError(f"Validação dimensional falhou. Verifique: {relatorio}")
 
 
 # ---------------------------------------------------------------------------
 # MAIN
 # ---------------------------------------------------------------------------
 
-ORDEM_ETAPAS = ["extrair", "converter", "limpar", "transformar"]
+ORDEM_ETAPAS = ["extrair", "converter", "limpar", "transformar", "validar"]
 
 DISPATCH = {
-    "extrair":    etapa_extrair,
-    "converter":  etapa_converter,
-    "limpar":     etapa_limpar,
+    "extrair":     etapa_extrair,
+    "converter":   etapa_converter,
+    "limpar":      etapa_limpar,
     "transformar": etapa_transformar,
+    "validar":     etapa_validar,
 }
 
 

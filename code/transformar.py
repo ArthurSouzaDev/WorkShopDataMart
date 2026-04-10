@@ -457,7 +457,10 @@ def main(
     dump_path: str = "./data/processed/sih_datasus.sql",
     municipios_csv: str = "code/municipios.csv",
     csv_pasta: str = "data/csv",
+    relatorio_qualidade: str = "data/relatorio_qualidade.csv",
 ) -> None:
+    from code.validar import validate_raw, validate_dimensional, salvar_relatorio
+
     logger.info("=" * 55)
     logger.info("  ETL — Transformação e Carga no Modelo Dimensional")
     logger.info("=" * 55)
@@ -465,6 +468,18 @@ def main(
     os.makedirs(os.path.dirname(db_path), exist_ok=True)
 
     df_raw = carregar_raw(raw_file)
+
+    # --- validação pré-carga ---
+    logger.info("Executando validação do dado bruto...")
+    report_raw = validate_raw(df_raw)
+    if report_raw.tem_erros:
+        logger.error(
+            "Dado bruto possui erros críticos de qualidade. "
+            "Corrija os problemas antes de prosseguir. Resumo: %s",
+            report_raw.resumo(),
+        )
+        raise ValueError("Validação do dado bruto falhou com erros críticos.")
+
     mapa_municipios = carregar_municipios(municipios_csv)
 
     dim_tempo       = build_dim_tempo(df_raw)
@@ -484,6 +499,19 @@ def main(
     carregar_tabela(dim_diagnostico, "dim_diagnostico",  engine)
     carregar_tabela(fato,            "fato_internacoes", engine)
 
+    # --- validação pós-carga ---
+    logger.info("Executando validação do modelo dimensional...")
+    with sqlite3.connect(db_path) as conn:
+        report_dim = validate_dimensional(conn)
+
+    salvar_relatorio(report_raw, report_dim, relatorio_qualidade)
+
+    if report_dim.tem_erros:
+        logger.error(
+            "Modelo dimensional possui erros de integridade. "
+            "Verifique: %s", relatorio_qualidade,
+        )
+
     gerar_dump(db_path, dump_path)
     exportar_csvs(
         {
@@ -496,8 +524,10 @@ def main(
         pasta=csv_pasta,
     )
 
-    logger.info("Pipeline concluído com sucesso!")
+    logger.info("Pipeline concluído! Resumo qualidade — raw: %s | dim: %s",
+                report_raw.resumo(), report_dim.resumo())
     logger.info("Banco: %s | Dump: %s | CSVs: %s/", db_path, dump_path, csv_pasta)
+    logger.info("Relatório de qualidade: %s", relatorio_qualidade)
 
 
 if __name__ == "__main__":
